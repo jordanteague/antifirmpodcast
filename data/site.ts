@@ -12,7 +12,7 @@ export const site = {
   name: "ANTIFIRM",
   tagline: "Business. Law. Other things.",
   description:
-    "A podcast about the things that sound boring until they’re your problem.",
+    "A podcast about the things that sound boring—until they’re your problem.",
   /** Episodes come from this feed at build time. */
   feedUrl: "https://api.riverside.com/hosting/EhWysD90.rss",
   /** Set to the trailer's YouTube link once known; until then the button falls back to the YouTube channel. */
