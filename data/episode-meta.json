@@ -1,0 +1,9 @@
+{
+  "_note": "Extra details the RSS feed doesn't carry, keyed by each episode's guid from the feed. category is one of: business, law, risk, other. youtubeId is the part after watch?v= in the episode's YouTube link; it sets the Watch link and the thumbnail. Episodes not listed here still appear, just without a category or YouTube link.",
+  "episodes": {
+    "69e2dd7c-9aea-430e-8d20-9ce2fc23d354": {
+      "category": null,
+      "youtubeId": "QEZeMmaVyqM"
+    }
+  }
+}

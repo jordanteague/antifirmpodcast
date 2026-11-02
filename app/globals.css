@@ -1,0 +1,84 @@
+@import "tailwindcss";
+
+/* Palette and type tokens. Single dark theme by design.
+   Lime is the primary accent; blue is a secondary accent; category colors mark episode topics only. */
+@theme {
+  --color-brand-lime: #d7ff00;
+  --color-brand-blue: #2979ff;
+  --color-background-primary: #050505;
+  --color-background-latest: #061522;
+  --color-text-primary: #f5f2e9;
+  --color-text-secondary: #888888;
+
+  --color-category-business: #2979ff;
+  --color-category-law: #b78967;
+  --color-category-risk: #b55b40;
+  --color-category-other: #77718f;
+  /* Risk and Other fall just under 4.5:1 as small text on the dark grounds,
+     so their labels use a lighter mix of the same hue. Rules and borders use the base color. */
+  --color-category-risk-text: color-mix(in oklab, var(--color-category-risk) 72%, var(--color-text-primary));
+  --color-category-other-text: color-mix(in oklab, var(--color-category-other) 72%, var(--color-text-primary));
+
+  /* Hairline dividers, derived from the secondary text color */
+  --color-rule: color-mix(in oklab, var(--color-text-secondary) 28%, transparent);
+
+  --font-display: var(--font-archivo), "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
+  --font-serif: var(--font-newsreader), Georgia, "Times New Roman", serif;
+
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@layer base {
+  :root { color-scheme: dark; }
+  html { scroll-behavior: smooth; scroll-padding-top: 6rem; }
+  body {
+    @apply bg-background-primary text-text-primary font-serif antialiased;
+    font-size: 17px;
+    line-height: 1.5;
+  }
+  :focus-visible { outline: 2px solid var(--color-brand-lime); outline-offset: 3px; }
+  ::selection { background: var(--color-brand-lime); color: var(--color-background-primary); }
+}
+
+@layer components {
+  /* Wide-tracked uppercase labels used for nav, buttons and metadata */
+  .label {
+    font-family: var(--font-display);
+    font-stretch: 110%;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    font-size: 0.8125rem;
+  }
+  .container-page {
+    margin-inline: auto;
+    max-width: 82rem;
+    padding-left: max(1.5rem, env(safe-area-inset-left, 0px));
+    padding-right: max(1.5rem, env(safe-area-inset-right, 0px));
+  }
+  @media (max-width: 40rem) {
+    .container-page {
+      padding-left: max(1rem, env(safe-area-inset-left, 0px));
+      padding-right: max(1rem, env(safe-area-inset-right, 0px));
+    }
+  }
+}
+
+/* Page-load sequence: headline lines rise in. */
+@keyframes rise {
+  from { opacity: 0; transform: translateY(0.35em); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.anim-rise { animation: rise 0.9s var(--ease-out-expo) both; animation-delay: var(--delay, 0ms); }
+.anim-fade { animation: fade-in 1.4s ease-out both; animation-delay: var(--delay, 0ms); }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .anim-rise, .anim-fade { animation: none; }
+  *, *::before, *::after { transition-duration: 0.01ms !important; }
+}
