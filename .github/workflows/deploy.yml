@@ -27,10 +27,9 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      # Serve from /<repo> unless a custom domain is configured (then leave this empty).
       - run: npm run build
         env:
-          NEXT_PUBLIC_BASE_PATH: ${{ vars.CUSTOM_DOMAIN == '' && format('/{0}', github.event.repository.name) || '' }}
+          NEXT_PUBLIC_BASE_PATH: ""  # served from the root of antifirm.com (see public/CNAME)
       - uses: actions/upload-pages-artifact@v3
         with:
           path: out
