@@ -21,5 +21,6 @@ Landing page built with Next.js (App Router), TypeScript and Tailwind CSS, expor
 
 Push to `main`, then in the repo's Settings → Pages set Source to "GitHub Actions".
 `.github/workflows/deploy.yml` builds and publishes `out/` on every push and every 6 hours, so new
-episodes appear on their own. If the feed can't be reached, the build fails and the live site stays as it was. It serves from `/<repo-name>`;
-if you add a custom domain, set a repository variable `CUSTOM_DOMAIN` so the base path is dropped.
+episodes appear on their own. If the feed can't be reached, the build fails and the live site stays as it was. It serves from the root of
+antifirm.com (`public/CNAME`). To serve from `username.github.io/<repo>` instead, delete the CNAME and set
+`NEXT_PUBLIC_BASE_PATH` to `/<repo>` in the workflow.
