@@ -9,6 +9,7 @@ import { EpisodeTabs } from "@/components/episode/EpisodeTabs";
 import { SeekButton } from "@/components/episode/SeekButton";
 import { Arrow, ShareButton } from "@/components/episode/ShareButton";
 import { site } from "@/data/site";
+import showArt from "@/public/images/show-art.jpg";
 import { categories } from "@/lib/categories";
 import { clock, displayTitle, durationLabel, getEpisode, getEpisodes, type Episode } from "@/lib/episodes";
 
@@ -28,7 +29,7 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
   return {
     title,
     description: ep.summary,
-    openGraph: { title, description: ep.summary, type: "article", images: ep.cover ? [ep.cover] : undefined },
+    openGraph: { title, description: ep.summary, type: "article", images: [ep.cover ?? showArt.src] },
   };
 }
 
@@ -98,20 +99,18 @@ export default async function EpisodePage({ params }: Params) {
               </p>
             </div>
 
-            {ep.cover && (
-              <div className="relative mx-auto w-full max-w-[20rem] sm:max-w-[28rem] lg:mx-0 lg:ml-auto">
-                <span aria-hidden="true" className="absolute inset-0 translate-x-3 translate-y-3 bg-background-primary sm:translate-x-4 sm:translate-y-4" />
+            <div className="relative mx-auto w-full max-w-[20rem] sm:max-w-[28rem] lg:mx-0 lg:ml-auto">
+                <span aria-hidden="true" className="absolute inset-0 translate-x-3 translate-y-3 bg-brand-lime sm:translate-x-4 sm:translate-y-4" />
                 <Image
-                  src={ep.cover}
-                  alt={`${site.name} cover art`}
-                  width={900}
-                  height={900}
+                  src={ep.cover ?? showArt}
+                  alt={`${site.name} podcast cover art`}
+                  width={1200}
+                  height={1200}
                   priority
                   sizes="(min-width: 1024px) 28rem, 90vw"
-                  className="relative aspect-square w-full border border-rule-ink object-cover"
+                  className="relative aspect-square w-full border border-background-primary object-cover"
                 />
               </div>
-            )}
           </div>
 
           {/* Player */}

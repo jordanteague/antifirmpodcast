@@ -32,8 +32,8 @@ export type Episode = {
   /** "m:ss" or "h:mm:ss", or null if the feed doesn't say. */
   duration: string | null;
   durationSeconds: number | null;
-  /** The feed's square cover art for the episode (or the show). */
-  cover: string;
+  /** Square cover art set on the episode in Riverside, or null when it uses the show art. */
+  cover: string | null;
   /** YouTube thumbnail when the episode has a YouTube link, otherwise the feed's artwork. */
   artwork: string;
   audioUrl: string | null;
@@ -223,7 +223,7 @@ function parseFeed(xml: string): Episode[] {
         publishedAt: new Date(text(item.pubDate)).toISOString(),
         duration: formatDuration(text(item["itunes:duration"])),
         durationSeconds: seconds,
-        cover: itemArt,
+        cover: itemArt && itemArt !== cover ? itemArt : null,
         artwork: m.youtubeId ? `https://i.ytimg.com/vi/${m.youtubeId}/hqdefault.jpg` : itemArt,
         audioUrl: item.enclosure?.["@url"] ?? null,
         links: { watch: youtube, youtube, spotify: site.links.spotify, apple: site.links.apple },
