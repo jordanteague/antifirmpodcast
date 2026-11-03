@@ -5,5 +5,61 @@
       "category": null,
       "youtubeId": "QEZeMmaVyqM"
     }
+  },
+  "byNumber": {
+    "1": {
+      "category": "law",
+      "youtubeId": null,
+      "slug": "mailing-it-in",
+      "showNotes": [
+        "George's answer to “what bothers you most about the legal profession?” takes one word: mediocrity. Lawyers mailing it in, from the solo down the street to the AmLaw 50 firm that still gets the client's name wrong in the deal documents.",
+        "Jordan and George get into where it comes from: “File > Save As” and the copy-paste habit (and the pleading Jordan never forgot), a billable-hour model that pays for time instead of results, a bar so low that returning a phone call puts you in the top 10%, and what AI does to all of it when it's treated like a slot machine.",
+        "Then the practical part: what young lawyers who want more than mediocrity can do about it, how clients can tell when they're getting mailed-in work, why “it depends” is only the start of an answer, and how to use AI to check your lawyer without running up your bill.",
+        "Not legal advice. Obviously."
+      ],
+      "chapters": [
+        {
+          "time": "00:00",
+          "title": "Cold open"
+        },
+        {
+          "time": "00:32",
+          "title": "Mediocrity, and lawyers mailing it in"
+        },
+        {
+          "time": "02:10",
+          "title": "The copy-paste mistake that stuck"
+        },
+        {
+          "time": "06:27",
+          "title": "“Do you want to play?”"
+        },
+        {
+          "time": "10:50",
+          "title": "The bar is so low"
+        },
+        {
+          "time": "13:01",
+          "title": "Advice for lawyers who want more"
+        },
+        {
+          "time": "18:11",
+          "title": "The AI slopocalypse"
+        },
+        {
+          "time": "22:21",
+          "title": "How clients spot mediocre work"
+        },
+        {
+          "time": "24:06",
+          "title": "Using AI to check your lawyer"
+        },
+        {
+          "time": "27:36",
+          "title": "Parting thoughts"
+        }
+      ],
+      "transcript": "ep001"
+    }
   }
 }
