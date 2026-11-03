@@ -7,6 +7,7 @@ const archivo = Archivo({ subsets: ["latin"], axes: ["wdth"], variable: "--font-
 const newsreader = Newsreader({ subsets: ["latin"], axes: ["opsz"], variable: "--font-newsreader", display: "swap" });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://antifirm.com"),
   title: `${site.name} Podcast`,
   description: site.description,
   openGraph: { title: `${site.name} Podcast`, description: site.description, type: "website" },

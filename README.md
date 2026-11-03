@@ -13,6 +13,11 @@ Landing page built with Next.js (App Router), TypeScript and Tailwind CSS, expor
 
 - Episodes come from the Riverside RSS feed (`feedUrl` in `data/site.ts`) at build time. The newest full episode is featured; until one exists, the trailer is.
 - `data/episode-meta.json` – per-episode extras the feed lacks, keyed by guid: `category` and `youtubeId`
+- Episode pages: `/episodes/<slug>/`, one per feed episode (`app/episodes/[slug]/page.tsx`), with a player,
+  show notes, a transcript tab and clickable chapters. Extras come from `data/episode-meta.json`, keyed by guid,
+  or under `byNumber` by episode number before the episode is in the feed: `slug`, `hosts`, `showNotes`
+  (paragraphs), `chapters` (`[{ "time": "mm:ss", "title": "..." }]`) and `transcript` (a file in `data/transcripts/`).
+  An episode page goes live once the episode is in the feed and the change is on `main`.
 - `data/site.ts` – show name, feed URL, trailer link, subscribe and social links
 - `public/images/` – logo and Lady Justice artwork
 - `components/` – one file per section

@@ -1,8 +1,14 @@
 import { readFile } from "node:fs/promises";
 import { XMLParser } from "fast-xml-parser";
 import meta from "@/data/episode-meta.json";
+import { readFileSync, existsSync } from "node:fs";
+import path from "node:path";
 import { site } from "@/data/site";
 import type { CategoryId } from "./categories";
+import { asset } from "./assets";
+import { formatClock, parseClock } from "./time";
+export { formatClock, parseClock };
+export { asset };
 
 export type Episode = {
   id: string;
@@ -20,16 +26,32 @@ export type Episode = {
   artwork: string;
   audioUrl: string | null;
   links: { watch: string; youtube: string; spotify: string; apple: string };
+  /** URL segment of the episode page: /episodes/<slug>/ */
+  slug: string;
+  /** Square episode artwork from the feed (the YouTube thumbnail is 16:9). */
+  cover: string;
+  /** Page extras from data/episode-meta.json. */
+  hosts: string[];
+  showNotes: string[];
+  chapters: Chapter[];
+  transcript: TranscriptLine[] | null;
 };
 
-type Meta = { category?: CategoryId | null; youtubeId?: string | null };
+export type Chapter = { start: number; title: string };
+export type TranscriptLine = { start: number; speaker: string; text: string };
 
-const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+type Meta = {
+  category?: CategoryId | null;
+  youtubeId?: string | null;
+  slug?: string;
+  hosts?: string[];
+  showNotes?: string[];
+  /** "mm:ss" or "h:mm:ss" */
+  chapters?: { time: string; title: string }[];
+  /** Name of a file in data/transcripts/, without .json */
+  transcript?: string;
+};
 
-/** Prefix a public/ path with the deploy base path (needed on GitHub Pages project sites). */
-export function asset(path: string) {
-  return path.startsWith("/") ? `${basePath}${path}` : path;
-}
 
 export function formatDate(iso: string) {
   return new Date(iso).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" });
@@ -86,14 +108,16 @@ function parseFeed(xml: string): Episode[] {
   const cover = channel["itunes:image"]?.["@href"] ?? "";
   const items = [channel.item ?? []].flat();
   const extra = meta.episodes as Record<string, Meta>;
+  const byNumber = (meta as { byNumber?: Record<string, Meta> }).byNumber ?? {};
 
   return items
     .map((item): Episode => {
       const id = text(item.guid) || text(item.link) || text(item.title);
-      const m = extra[id] ?? {};
-      const youtube = m.youtubeId ? `https://www.youtube.com/watch?v=${m.youtubeId}` : site.links.youtube;
-      const type = text(item["itunes:episodeType"]).toLowerCase();
       const number = Number(text(item["itunes:episode"]));
+      const type = text(item["itunes:episodeType"]).toLowerCase();
+      // Meta can be keyed by the feed guid, or by episode number before the guid exists.
+      const m: Meta = extra[id] ?? (type === "full" || !type ? byNumber[String(number)] : undefined) ?? {};
+      const youtube = m.youtubeId ? `https://www.youtube.com/watch?v=${m.youtubeId}` : site.links.youtube;
       const itemArt = item["itunes:image"]?.["@href"] ?? cover;
       return {
         id,
@@ -107,9 +131,39 @@ function parseFeed(xml: string): Episode[] {
         artwork: m.youtubeId ? `https://i.ytimg.com/vi/${m.youtubeId}/hqdefault.jpg` : itemArt,
         audioUrl: item.enclosure?.["@url"] ?? null,
         links: { watch: youtube, youtube, spotify: site.links.spotify, apple: site.links.apple },
+        slug: m.slug ?? slugify(text(item["itunes:title"]) || text(item.title) || id),
+        cover: itemArt,
+        hosts: m.hosts ?? site.hosts.map((h) => h.name),
+        showNotes: m.showNotes ?? [],
+        chapters: (m.chapters ?? []).map((c) => ({ start: parseClock(c.time), title: c.title })),
+        transcript: m.transcript ? loadTranscript(m.transcript) : null,
       };
     })
     .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+export function slugify(s: string) {
+  return s
+    .toLowerCase()
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+function loadTranscript(name: string): TranscriptLine[] | null {
+  const file = path.join(process.cwd(), "data", "transcripts", `${name}.json`);
+  if (!existsSync(file)) return null;
+  return JSON.parse(readFileSync(file, "utf8")) as TranscriptLine[];
+}
+
+export async function getEpisode(slug: string) {
+  const { all } = await getEpisodes();
+  return all.find((e) => e.slug === slug) ?? null;
+}
+
+export function episodeHref(ep: Episode) {
+  return asset(`/episodes/${ep.slug}/`);
 }
 
 export async function getEpisodes() {

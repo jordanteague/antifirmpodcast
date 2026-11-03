@@ -82,3 +82,45 @@
   .anim-rise, .anim-fade { animation: none; }
   *, *::before, *::after { transition-duration: 0.01ms !important; }
 }
+
+/* Episode pages: paper body under the black header, per the episode-page mockup. */
+@theme {
+  --color-paper: #f1f0ea;
+  --color-paper-card: #dfe1d8;
+  --color-ink: #121311;
+  --color-ink-secondary: #55574f;
+  --color-ink-rule: color-mix(in oklab, var(--color-ink) 20%, transparent);
+  --color-olive: #5f6b1c;
+}
+
+/* Episode player seek bar: lime knob on a thin grey track, played part in lime. */
+.episode-range {
+  appearance: none;
+  height: 1.5rem;
+  background: transparent;
+  cursor: pointer;
+}
+.episode-range::-webkit-slider-runnable-track {
+  height: 3px;
+  background: linear-gradient(to right, var(--color-brand-lime) var(--pct, 0%), color-mix(in oklab, var(--color-text-primary) 35%, transparent) var(--pct, 0%));
+}
+.episode-range::-moz-range-track {
+  height: 3px;
+  background: linear-gradient(to right, var(--color-brand-lime) var(--pct, 0%), color-mix(in oklab, var(--color-text-primary) 35%, transparent) var(--pct, 0%));
+}
+.episode-range::-webkit-slider-thumb {
+  appearance: none;
+  width: 1.4rem;
+  height: 1.4rem;
+  margin-top: calc((3px - 1.4rem) / 2);
+  border-radius: 999px;
+  background: var(--color-brand-lime);
+  border: 0;
+}
+.episode-range::-moz-range-thumb {
+  width: 1.4rem;
+  height: 1.4rem;
+  border-radius: 999px;
+  background: var(--color-brand-lime);
+  border: 0;
+}

@@ -18,6 +18,8 @@ export const site = {
   /** Set to the trailer's YouTube link once known; until then the button falls back to the YouTube channel. */
   trailerUrl: "",
   links,
+  /** Default hosts for episode pages; an episode can override them in episode-meta.json. */
+  hosts: [{ name: "Jordan Teague" }, { name: "George Campbell" }],
   subscribe: [
     { id: "youtube", label: "YouTube", href: links.youtube },
     { id: "spotify", label: "Spotify", href: links.spotify },

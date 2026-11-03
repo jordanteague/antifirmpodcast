@@ -5,12 +5,14 @@ import { site } from "@/data/site";
 import Image from "next/image";
 import logo from "@/public/images/logo.png";
 import { PlatformIcon } from "./icons";
+import { asset } from "@/lib/assets";
 
+// Links point at the home page so they also work from episode pages.
 const nav = [
-  { href: "#episodes", label: "Episodes" },
-  { href: "#about", label: "About" },
-  { href: "#hosts", label: "Hosts" },
-  { href: "#subscribe", label: "Subscribe" },
+  { href: asset("/#episodes"), label: "Episodes" },
+  { href: asset("/#about"), label: "About" },
+  { href: asset("/#hosts"), label: "Hosts" },
+  { href: asset("/#subscribe"), label: "Subscribe" },
 ];
 
 export function SiteHeader() {
@@ -39,7 +41,7 @@ export function SiteHeader() {
       }`}
     >
       <div className="container-page flex items-center gap-8 py-5 lg:gap-14 lg:py-6">
-        <a href="#main" className="shrink-0" aria-label={`${site.name} podcast, back to top`}>
+        <a href={asset("/")} className="shrink-0" aria-label={`${site.name} podcast home`}>
           {/* Placeholder logo cut from the mockup. Swap public/images/logo.png for the hi-res file. */}
           <Image src={logo} alt="" priority className="h-auto w-28 lg:w-[8.5rem]" />
         </a>
