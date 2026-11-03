@@ -18,9 +18,9 @@ export function FeaturedEpisode({ episode }: { episode: Episode }) {
       <h2 className="label mb-4 text-brand-blue">Latest episode</h2>
       <div className="grid items-center gap-6 md:grid-cols-2 md:gap-8">
         <a
-          href={page}
+          href={episode.links.watch}
           className={`group relative block overflow-hidden border border-rule border-b-2 transition-colors ${category.rule} ${category.hoverBorder}`}
-          aria-label={`${episode.title}: episode page`}
+          aria-label={`Watch ${episode.title} on YouTube`}
         >
           <Image
             src={episode.artwork}
@@ -64,7 +64,10 @@ export function FeaturedEpisode({ episode }: { episode: Episode }) {
               {episode.title}
             </a>
           </h3>
-          <p className="mb-6 line-clamp-3 max-w-[42ch] text-text-secondary">{episode.description}</p>
+          <p className="mb-4 line-clamp-3 max-w-[42ch] text-text-secondary">{episode.description}</p>
+          <a href={page} className="label mb-6 inline-flex items-center gap-2 text-xs text-brand-lime hover:text-text-primary">
+            {episode.transcript ? "Show notes & transcript" : "Episode page"} <span aria-hidden="true">→</span>
+          </a>
           <div className="flex flex-wrap items-center gap-6">
             <Button href={episode.links.watch}>Watch now</Button>
             <span aria-hidden="true" className="h-10 w-px bg-rule" />
