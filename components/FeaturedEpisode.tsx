@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { categoryStyle } from "@/lib/categories";
-import { episodeLabel, type Episode } from "@/lib/episodes";
+import { episodeHref, episodeLabel, type Episode } from "@/lib/episodes";
 import { Button } from "./Button";
 import { PlatformIcon, PlayIcon } from "./icons";
 
@@ -11,15 +11,16 @@ export function FeaturedEpisode({ episode }: { episode: Episode }) {
     { id: "apple", label: "Listen on Apple Podcasts", href: episode.links.apple },
   ] as const;
   const category = categoryStyle(episode.category);
+  const page = episodeHref(episode);
 
   return (
     <article aria-labelledby="latest-title" className="min-w-0">
       <h2 className="label mb-4 text-brand-blue">Latest episode</h2>
       <div className="grid items-center gap-6 md:grid-cols-2 md:gap-8">
         <a
-          href={episode.links.watch}
+          href={page}
           className={`group relative block overflow-hidden border border-rule border-b-2 transition-colors ${category.rule} ${category.hoverBorder}`}
-          aria-label={`Play ${episode.title}`}
+          aria-label={`${episode.title}: episode page`}
         >
           <Image
             src={episode.artwork}
@@ -59,7 +60,9 @@ export function FeaturedEpisode({ episode }: { episode: Episode }) {
             )}
           </p>
           <h3 id="latest-title" className="mb-3.5 text-balance text-[clamp(1.75rem,2.5vw,2.4rem)] leading-[1.1]">
-            {episode.title}
+            <a href={page} className="transition-colors hover:text-brand-lime">
+              {episode.title}
+            </a>
           </h3>
           <p className="mb-6 line-clamp-3 max-w-[42ch] text-text-secondary">{episode.description}</p>
           <div className="flex flex-wrap items-center gap-6">
