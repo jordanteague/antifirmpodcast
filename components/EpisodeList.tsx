@@ -1,7 +1,8 @@
 import Image from "next/image";
+import Link from "next/link";
 import { site } from "@/data/site";
 import { categoryStyle } from "@/lib/categories";
-import { episodeLabel, formatDate, type Episode } from "@/lib/episodes";
+import { episodeHref, episodeLabel, formatDate, type Episode } from "@/lib/episodes";
 
 export function EpisodeList({ episodes }: { episodes: Episode[] }) {
   return (
@@ -15,8 +16,8 @@ export function EpisodeList({ episodes }: { episodes: Episode[] }) {
             const category = categoryStyle(ep.category);
             return (
               <li key={ep.id}>
-                <a
-                  href={ep.links.watch}
+                <Link
+                  href={episodeHref(ep)}
                   className="group grid grid-cols-[4.8rem_minmax(0,1fr)_auto] items-center gap-4 transition-colors"
                 >
                   <span className={`relative block border border-rule border-b-2 transition-colors ${category.rule} ${category.hoverBorder}`}>
@@ -48,7 +49,7 @@ export function EpisodeList({ episodes }: { episodes: Episode[] }) {
                   <span aria-hidden="true" className="pr-2 text-2xl text-text-secondary transition-transform group-hover:translate-x-1 group-hover:text-brand-lime">
                     ›
                   </span>
-                </a>
+                </Link>
               </li>
             );
           })}

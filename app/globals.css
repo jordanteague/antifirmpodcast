@@ -22,6 +22,11 @@
   /* Hairline dividers, derived from the secondary text color */
   --color-rule: color-mix(in oklab, var(--color-text-secondary) 28%, transparent);
 
+  /* Episode pages set dark type on the warm white. Secondary text there is a mix of the two
+     (about 7:1), since #888 on warm white falls under 4.5:1. */
+  --color-ink-secondary: color-mix(in oklab, var(--color-background-primary) 70%, var(--color-text-primary));
+  --color-rule-ink: color-mix(in oklab, var(--color-background-primary) 22%, transparent);
+
   --font-display: var(--font-archivo), "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
   --font-serif: var(--font-newsreader), Georgia, "Times New Roman", serif;
 
@@ -62,7 +67,49 @@
       padding-right: max(1rem, env(safe-area-inset-right, 0px));
     }
   }
+
+  /* Show notes from the feed */
+  .prose-notes { display: grid; gap: 1.1em; color: var(--color-ink-secondary); font-size: 1.2rem; line-height: 1.6; }
+  .prose-notes a { color: var(--color-background-primary); text-decoration: underline; text-underline-offset: 0.2em; text-decoration-color: var(--color-rule-ink); }
+  .prose-notes a:hover { text-decoration-color: currentColor; }
+  .prose-notes strong, .prose-notes b, .prose-notes h3, .prose-notes h4 { color: var(--color-background-primary); }
+  .prose-notes h3, .prose-notes h4 { font-size: 1.35rem; line-height: 1.25; margin-top: 0.4em; }
+  .prose-notes ul, .prose-notes ol { padding-left: 1.2em; display: grid; gap: 0.4em; }
+  .prose-notes ul { list-style: disc; }
+  .prose-notes ol { list-style: decimal; }
+  .prose-notes blockquote { border-left: 2px solid var(--color-background-primary); padding-left: 1em; font-style: italic; }
 }
+
+/* Episode player scrubber: lime thumb on a thin track, filled up to the playhead via --progress. */
+.scrubber {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 1.25rem;
+  background: transparent;
+  cursor: pointer;
+  --track: color-mix(in oklab, var(--color-text-secondary) 55%, transparent);
+}
+.scrubber::-webkit-slider-runnable-track {
+  height: 3px;
+  border-radius: 2px;
+  background: linear-gradient(to right, var(--color-brand-lime) var(--progress, 0%), var(--track) var(--progress, 0%));
+}
+.scrubber::-moz-range-track { height: 3px; border-radius: 2px; background: var(--track); }
+.scrubber::-moz-range-progress { height: 3px; border-radius: 2px; background: var(--color-brand-lime); }
+.scrubber::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 1.1rem;
+  height: 1.1rem;
+  margin-top: calc(-0.55rem + 1.5px);
+  border-radius: 50%;
+  background: var(--color-brand-lime);
+  border: 0;
+}
+.scrubber::-moz-range-thumb { width: 1.1rem; height: 1.1rem; border-radius: 50%; background: var(--color-brand-lime); border: 0; }
+.scrubber:focus-visible { outline: none; }
+.scrubber:focus-visible::-webkit-slider-thumb { box-shadow: 0 0 0 3px var(--color-background-primary), 0 0 0 5px var(--color-brand-lime); }
+.scrubber:focus-visible::-moz-range-thumb { box-shadow: 0 0 0 3px var(--color-background-primary), 0 0 0 5px var(--color-brand-lime); }
 
 /* Page-load sequence: headline lines rise in. */
 @keyframes rise {

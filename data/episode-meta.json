@@ -1,5 +1,5 @@
 {
-  "_note": "Extra details the RSS feed doesn't carry, keyed by each episode's guid from the feed. category is one of: business, law, risk, other. youtubeId is the part after watch?v= in the episode's YouTube link; it sets the Watch link and the thumbnail. Episodes not listed here still appear, just without a category or YouTube link.",
+  "_note": "Extra details the RSS feed doesn't carry, keyed by each episode's guid from the feed. category is one of: business, law, risk, other. youtubeId is the part after watch?v= in the episode's YouTube link; it sets the Watch link and the thumbnail. Optional for the episode page: notesHeading (a line above the show notes; \\n breaks the line), chapters (a list of {\"start\": \"06:42\", \"title\": \"...\"}), and slug (to override the URL, which defaults to the title). Episodes not listed here still appear, just without these.",
   "episodes": {
     "69e2dd7c-9aea-430e-8d20-9ce2fc23d354": {
       "category": null,

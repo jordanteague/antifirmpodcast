@@ -1,6 +1,7 @@
 import Image from "next/image";
+import Link from "next/link";
 import { categoryStyle } from "@/lib/categories";
-import { episodeLabel, type Episode } from "@/lib/episodes";
+import { episodeHref, episodeLabel, type Episode } from "@/lib/episodes";
 import { Button } from "./Button";
 import { PlatformIcon, PlayIcon } from "./icons";
 
@@ -59,11 +60,16 @@ export function FeaturedEpisode({ episode }: { episode: Episode }) {
             )}
           </p>
           <h3 id="latest-title" className="mb-3.5 text-balance text-[clamp(1.75rem,2.5vw,2.4rem)] leading-[1.1]">
-            {episode.title}
+            <Link href={episodeHref(episode)} className="transition-colors hover:text-brand-lime">
+              {episode.title}
+            </Link>
           </h3>
           <p className="mb-6 line-clamp-3 max-w-[42ch] text-text-secondary">{episode.description}</p>
           <div className="flex flex-wrap items-center gap-6">
             <Button href={episode.links.watch}>Watch now</Button>
+            <Link href={episodeHref(episode)} className="label border-b border-rule pb-1 transition-colors hover:border-brand-lime hover:text-brand-lime">
+              Episode page
+            </Link>
             <span aria-hidden="true" className="h-10 w-px bg-rule" />
             <ul className="flex items-center gap-6">
               {platforms.map((p) => (

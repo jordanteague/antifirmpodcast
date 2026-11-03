@@ -17,6 +17,13 @@ Landing page built with Next.js (App Router), TypeScript and Tailwind CSS, expor
 - `public/images/` – logo and Lady Justice artwork
 - `components/` – one file per section
 
+## Episode pages
+
+Every episode in the feed gets a page at `/episodes/<slug>/` with a player, show notes (the feed's
+description), links to YouTube, Spotify and Apple, and a share button. Chapters and a heading above the
+show notes come from `data/episode-meta.json`; transcripts from `data/transcripts/<slug>.txt` (see the
+README there).
+
 ## Deploy to GitHub Pages
 
 Push to `main`, then in the repo's Settings → Pages set Source to "GitHub Actions".

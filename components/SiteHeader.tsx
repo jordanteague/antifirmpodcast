@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import { site } from "@/data/site";
 import Image from "next/image";
+import Link from "next/link";
 import logo from "@/public/images/logo.png";
 import { PlatformIcon } from "./icons";
 
@@ -13,7 +14,9 @@ const nav = [
   { href: "#subscribe", label: "Subscribe" },
 ];
 
-export function SiteHeader() {
+/** On the home page the nav jumps to sections; elsewhere it links back to them. */
+export function SiteHeader({ onHome = true }: { onHome?: boolean }) {
+  const prefix = onHome ? "" : "/";
   const [scrolled, setScrolled] = useState(false);
   const [open, setOpen] = useState(false);
 
@@ -39,18 +42,18 @@ export function SiteHeader() {
       }`}
     >
       <div className="container-page flex items-center gap-8 py-5 lg:gap-14 lg:py-6">
-        <a href="#main" className="shrink-0" aria-label={`${site.name} podcast, back to top`}>
+        <Link href={onHome ? "#main" : "/"} className="shrink-0" aria-label={onHome ? `${site.name} podcast, back to top` : `${site.name} podcast home`}>
           {/* Placeholder logo cut from the mockup. Swap public/images/logo.png for the hi-res file. */}
           <Image src={logo} alt="" priority className="h-auto w-28 lg:w-[8.5rem]" />
-        </a>
+        </Link>
 
         <nav aria-label="Main" className="hidden md:block">
           <ul className="flex gap-8 lg:gap-11">
             {nav.map((item) => (
               <li key={item.href}>
-                <a href={item.href} className="label transition-colors hover:text-brand-lime">
+                <Link href={prefix + item.href} className="label transition-colors hover:text-brand-lime">
                   {item.label}
-                </a>
+                </Link>
               </li>
             ))}
           </ul>
@@ -85,13 +88,13 @@ export function SiteHeader() {
         <ul className="grid gap-1 border-t border-rule pt-4">
           {nav.map((item) => (
             <li key={item.href}>
-              <a
-                href={item.href}
+              <Link
+                href={prefix + item.href}
                 onClick={() => setOpen(false)}
                 className="block py-2 font-display text-4xl font-black uppercase [font-stretch:68%] hover:text-brand-lime"
               >
                 {item.label}
-              </a>
+              </Link>
             </li>
           ))}
         </ul>
