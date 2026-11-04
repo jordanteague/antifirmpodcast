@@ -4,7 +4,8 @@ const links = {
   spotify: "https://open.spotify.com/show/6JaAeCI2Wnrm4frUQMmNzX",
   apple: "https://podcasts.apple.com/us/podcast/antifirm/id6829585794",
   instagram: "https://www.instagram.com/antifirm/",
-  tiktok: "https://www.tiktok.com/@antifirm",
+  tiktok: "https://www.tiktok.com/@antifirm.podcast",
+  linkedin: "https://www.linkedin.com/company/81525019/",
   x: "https://x.com/antifirmpodcast",
 };
 
@@ -31,6 +32,7 @@ export const site = {
     { id: "apple", label: "Apple Podcasts", href: links.apple },
     { id: "instagram", label: "Instagram", href: links.instagram },
     { id: "tiktok", label: "TikTok", href: links.tiktok },
+    { id: "linkedin", label: "LinkedIn", href: links.linkedin },
     { id: "x", label: "X", href: links.x },
   ],
 } as const;
