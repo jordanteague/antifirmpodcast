@@ -5,6 +5,7 @@ import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
 import { PlayerProvider } from "@/components/episode/PlayerContext";
 import { EpisodePlayer, SeekLink } from "@/components/episode/EpisodePlayer";
+import { VideoEmbed } from "@/components/episode/VideoEmbed";
 import { EpisodeTabs } from "@/components/episode/EpisodeTabs";
 import { Arrow, ShareButton } from "@/components/episode/ShareButton";
 import { categoryStyle } from "@/lib/categories";
@@ -79,7 +80,9 @@ export default async function EpisodePage({ params }: Props) {
               <span aria-hidden="true">←</span> All episodes
             </a>
 
-            <div className="mt-8 grid gap-10 sm:mt-14 lg:grid-cols-[minmax(0,1fr)_minmax(0,40%)] lg:gap-16">
+            <div
+              className={`mt-8 grid gap-10 sm:mt-14 lg:gap-16 ${ep.youtubeId ? "lg:grid-cols-[minmax(0,1fr)_minmax(0,55%)]" : "lg:grid-cols-[minmax(0,1fr)_minmax(0,40%)]"}`}
+            >
               <div className="min-w-0 self-center">
                 <p className="label flex flex-wrap items-center gap-x-4 gap-y-2 text-[0.75rem] sm:text-[0.8125rem]">
                   <span>{label}</span>
@@ -110,17 +113,24 @@ export default async function EpisodePage({ params }: Props) {
                 )}
               </div>
 
-              <div className="relative mx-auto w-full max-w-md lg:max-w-none">
+              <div
+                id={ep.youtubeId ? "watch" : undefined}
+                className={`relative mx-auto w-full self-center scroll-mt-40 lg:max-w-none ${ep.youtubeId ? "max-w-3xl" : "max-w-md"}`}
+              >
                 <div aria-hidden="true" className="absolute inset-0 translate-x-3 translate-y-3 bg-ink sm:translate-x-4 sm:translate-y-4" />
-                <Image
-                  src={ep.cover}
-                  alt={`${ep.title} episode artwork`}
-                  width={1200}
-                  height={1200}
-                  priority
-                  sizes="(min-width: 1024px) 40vw, 90vw"
-                  className="relative aspect-square h-auto w-full border border-ink-rule object-cover"
-                />
+                {ep.youtubeId ? (
+                  <VideoEmbed id={ep.youtubeId} title={ep.title} />
+                ) : (
+                  <Image
+                    src={ep.cover}
+                    alt={`${ep.title} episode artwork`}
+                    width={1200}
+                    height={1200}
+                    priority
+                    sizes="(min-width: 1024px) 40vw, 90vw"
+                    className="relative aspect-square h-auto w-full border border-ink-rule object-cover"
+                  />
+                )}
               </div>
             </div>
 

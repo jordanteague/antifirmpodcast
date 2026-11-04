@@ -6,11 +6,11 @@ import { About } from "@/components/About";
 import { Subscribe } from "@/components/Subscribe";
 import { SiteFooter } from "@/components/SiteFooter";
 import { site } from "@/data/site";
-import { getEpisodes } from "@/lib/episodes";
+import { getEpisodes, watchHref } from "@/lib/episodes";
 
 export default async function HomePage() {
   const { all, featured, trailer } = await getEpisodes();
-  const trailerHref = site.trailerUrl || trailer?.links.youtube || site.links.youtube;
+  const trailerHref = site.trailerUrl || (trailer ? watchHref(trailer) : site.links.youtube);
 
   return (
     <>

@@ -25,6 +25,8 @@ export type Episode = {
   /** YouTube thumbnail when the episode has a YouTube link, otherwise the feed's artwork. */
   artwork: string;
   audioUrl: string | null;
+  /** YouTube video id, when the episode is on YouTube. */
+  youtubeId: string | null;
   links: { watch: string; youtube: string; spotify: string; apple: string };
   /** URL segment of the episode page: /episodes/<slug>/ */
   slug: string;
@@ -130,6 +132,7 @@ function parseFeed(xml: string): Episode[] {
         duration: formatDuration(text(item["itunes:duration"])),
         artwork: m.youtubeId ? `https://i.ytimg.com/vi/${m.youtubeId}/hqdefault.jpg` : itemArt,
         audioUrl: item.enclosure?.["@url"] ?? null,
+        youtubeId: m.youtubeId ?? null,
         links: { watch: youtube, youtube, spotify: site.links.spotify, apple: site.links.apple },
         slug: m.slug ?? slugify(text(item["itunes:title"]) || text(item.title) || id),
         cover: itemArt,
@@ -164,6 +167,11 @@ export async function getEpisode(slug: string) {
 
 export function episodeHref(ep: Episode) {
   return asset(`/episodes/${ep.slug}/`);
+}
+
+/** Where "Watch" buttons go: the video on the episode page when there is one, so viewers stay on the site. */
+export function watchHref(ep: Episode) {
+  return ep.youtubeId ? `${episodeHref(ep)}#watch` : ep.links.youtube;
 }
 
 export async function getEpisodes() {
