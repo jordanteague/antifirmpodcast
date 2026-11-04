@@ -32,6 +32,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
+/**
+ * Headline size steps down with title length so long titles stay within about three lines,
+ * including in the narrower column beside a video. Class names are spelled out for Tailwind.
+ */
+function headlineSize(title: string) {
+  const n = title.length;
+  if (n <= 18) return "leading-[0.95] text-[clamp(3rem,8.5vw,6.5rem)] lg:text-[clamp(3.5rem,5.4vw,6rem)]";
+  if (n <= 32) return "leading-[1] text-[clamp(2.6rem,7.5vw,5.25rem)] lg:text-[clamp(2.9rem,4.3vw,4.75rem)]";
+  if (n <= 55) return "leading-[1.04] text-[clamp(2.3rem,6vw,4.25rem)] lg:text-[clamp(2.5rem,3.4vw,3.75rem)]";
+  return "leading-[1.06] text-[clamp(2rem,5vw,3.5rem)] lg:text-[clamp(2.1rem,2.7vw,3rem)]";
+}
+
 export default async function EpisodePage({ params }: Props) {
   const ep = await getEpisode((await params).slug);
   if (!ep) notFound();
@@ -94,7 +106,7 @@ export default async function EpisodePage({ params }: Props) {
                   )}
                   {minutes && <span>{minutes} min</span>}
                 </p>
-                <h1 className="mt-5 text-balance text-[clamp(3rem,8.5vw,6.5rem)] leading-[0.95] tracking-[-0.02em] sm:mt-7">{ep.title}</h1>
+                <h1 className={`mt-5 text-balance tracking-[-0.02em] sm:mt-7 ${headlineSize(ep.title)}`}>{ep.title}</h1>
                 {ep.description && (
                   <p className="mt-6 max-w-[40ch] font-display text-[1.15rem] leading-relaxed text-ink-secondary sm:mt-8 sm:text-[1.35rem]">
                     {ep.description}
