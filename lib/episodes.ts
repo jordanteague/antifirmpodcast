@@ -169,6 +169,11 @@ export function episodeHref(ep: Episode) {
   return asset(`/episodes/${ep.slug}/`);
 }
 
+/** Where "Watch" buttons go: the video on the episode page when there is one, so viewers stay on the site. */
+export function watchHref(ep: Episode) {
+  return ep.youtubeId ? `${episodeHref(ep)}#watch` : ep.links.youtube;
+}
+
 export async function getEpisodes() {
   const all = parseFeed(await loadFeedXml());
   const trailer = all.find((e) => e.kind === "trailer") ?? null;

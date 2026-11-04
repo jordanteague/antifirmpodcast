@@ -113,7 +113,10 @@ export default async function EpisodePage({ params }: Props) {
                 )}
               </div>
 
-              <div className={`relative mx-auto w-full lg:max-w-none ${ep.youtubeId ? "max-w-3xl" : "max-w-md"}`}>
+              <div
+                id={ep.youtubeId ? "watch" : undefined}
+                className={`relative mx-auto w-full self-center scroll-mt-40 lg:max-w-none ${ep.youtubeId ? "max-w-3xl" : "max-w-md"}`}
+              >
                 <div aria-hidden="true" className="absolute inset-0 translate-x-3 translate-y-3 bg-ink sm:translate-x-4 sm:translate-y-4" />
                 {ep.youtubeId ? (
                   <VideoEmbed id={ep.youtubeId} title={ep.title} />
