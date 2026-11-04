@@ -123,7 +123,7 @@ function parseFeed(xml: string): Episode[] {
       const itemArt = item["itunes:image"]?.["@href"] ?? cover;
       return {
         id,
-        title: text(item["itunes:title"]) || text(item.title),
+        title: cleanTitle(text(item["itunes:title"]) || text(item.title)),
         kind: type === "trailer" ? "trailer" : type === "bonus" ? "bonus" : "full",
         number: Number.isFinite(number) && number > 0 ? number : null,
         category: m.category ?? null,
@@ -143,6 +143,17 @@ function parseFeed(xml: string): Episode[] {
       };
     })
     .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+/**
+ * Drop a trailing "| Trailer", "– Episode 3", "| Ep. 3" and the like: the page's label line already
+ * says what kind of episode it is, and the suffix only makes the headline wrap.
+ */
+export function cleanTitle(title: string) {
+  const cleaned = title
+    .replace(/\s*[|:–—-]\s*(official\s+)?(trailer|bonus(\s+episode)?|ep(isode)?\.?\s*#?\d+)\s*$/i, "")
+    .trim();
+  return cleaned || title;
 }
 
 export function slugify(s: string) {

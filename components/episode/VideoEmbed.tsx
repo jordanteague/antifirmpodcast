@@ -40,12 +40,11 @@ export function VideoEmbed({ id, title }: { id: string; title: string }) {
         alt=""
         className="absolute inset-0 size-full object-cover transition-transform duration-500 ease-out group-hover:scale-[1.03]"
       />
-      <span className="absolute left-1/2 top-1/2 grid size-16 -translate-x-1/2 -translate-y-1/2 place-items-center bg-brand-lime text-ink transition-colors group-hover:bg-text-primary sm:size-20">
-        <svg viewBox="0 0 14 16" aria-hidden="true" className="ml-1 h-6 w-5 fill-none stroke-current stroke-[1.6]">
+      {/* Kept in the corner so it doesn't cover the words in the YouTube thumbnail. */}
+      <span className="label absolute bottom-3 left-3 flex items-center gap-3 bg-brand-lime py-2.5 pl-3 pr-4 text-[0.7rem] font-semibold text-ink transition-colors group-hover:bg-text-primary sm:bottom-4 sm:left-4 sm:py-3 sm:pl-4 sm:pr-5 sm:text-[0.8rem]">
+        <svg viewBox="0 0 14 16" aria-hidden="true" className="h-3.5 w-3 fill-current sm:h-4 sm:w-3.5">
           <path d="M1 1l12 7-12 7z" strokeLinejoin="round" />
         </svg>
-      </span>
-      <span className="label absolute bottom-3 left-3 bg-ink/80 px-2.5 py-1.5 text-[0.7rem] text-text-primary sm:bottom-4 sm:left-4">
         Watch the episode
       </span>
     </button>
