@@ -27,6 +27,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           Skip to content
         </a>
         {children}
+        {site.cloudflareAnalyticsToken ? (
+          <script
+            defer
+            src="https://static.cloudflareinsights.com/beacon.min.js"
+            data-cf-beacon={JSON.stringify({ token: site.cloudflareAnalyticsToken })}
+          />
+        ) : null}
       </body>
     </html>
   );
