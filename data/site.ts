@@ -23,7 +23,7 @@ export const site = {
    * Cloudflare Web Analytics site token (cookie-free, no consent banner needed).
    * Leave empty to turn analytics off. Find it in Cloudflare → Analytics & Logs → Web Analytics → antifirm.com → Manage site.
    */
-  cloudflareAnalyticsToken: "",
+  cloudflareAnalyticsToken: "9a4a32c3fe2c4b8da97969cc0c35becd",
   /** Default hosts for episode pages; an episode can override them in episode-meta.json. */
   hosts: [{ name: "Jordan Teague" }, { name: "George Campbell" }],
   subscribe: [
