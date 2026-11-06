@@ -19,6 +19,11 @@ export const site = {
   /** Set to the trailer's YouTube link once known; until then the button falls back to the YouTube channel. */
   trailerUrl: "",
   links,
+  /**
+   * Cloudflare Web Analytics site token (cookie-free, no consent banner needed).
+   * Leave empty to turn analytics off. Find it in Cloudflare → Analytics & Logs → Web Analytics → antifirm.com → Manage site.
+   */
+  cloudflareAnalyticsToken: "9a4a32c3fe2c4b8da97969cc0c35becd",
   /** Default hosts for episode pages; an episode can override them in episode-meta.json. */
   hosts: [{ name: "Jordan Teague" }, { name: "George Campbell" }],
   subscribe: [
