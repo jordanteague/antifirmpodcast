@@ -1,7 +1,7 @@
 {
   "_note": "Extra details the RSS feed doesn't carry, keyed by each episode's guid from the feed. category is one of: business, law, risk, other. youtubeId is the part after watch?v= in the episode's YouTube link; it sets the Watch link and the thumbnail. Episodes not listed here still appear, just without a category or YouTube link. byNumber holds the same details keyed by episode number, for an episode that isn't in the feed yet (no guid). Page extras: slug (URL), hosts, showNotes (paragraphs), chapters ([{time: 'mm:ss', title}]), transcript (file name in data/transcripts/ without .json).",
   "episodes": {
-    "69e2dd7c-9aea-430e-8d20-9ce2fc23d354": {
+    "92bdf63c-e406-4a4f-b9e4-ed857c32ef8e": {
       "category": null,
       "youtubeId": "le5h2XklSAg"
     }
