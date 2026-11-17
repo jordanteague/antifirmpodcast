@@ -60,6 +60,76 @@
         }
       ],
       "transcript": "ep001"
+    },
+    "2": {
+      "category": "law",
+      "youtubeId": null,
+      "slug": "everyone-is-ai-native-now",
+      "showNotes": [
+        "George and Jordan open with an announcement: as of five minutes ago, Campbell Teague is an “AI native” firm. Then they take the label apart. Calling yourself AI native, George says, is like being a pencil-native firm in the 1930s, and Jordan suspects it usually means “we bought a ChatGPT subscription.”",
+        "From there: why “nobody got fired for hiring the biggest firm” is losing its pull, how much of today's “AI” is workflow automation that has existed for a decade, what real adoption might look like (think Jarvis, not a chat window), and why senior lawyers who can dictate may be the surprise winners.",
+        "They close on the fate of junior lawyers, the return on delegation, what the old courthouse runners can teach us, and two spicy predictions: a slopocalypse in the courts, and the end of class action waivers.",
+        "Not legal advice. Obviously."
+      ],
+      "chapters": [
+        {
+          "time": "00:00",
+          "title": "Cold open"
+        },
+        {
+          "time": "00:35",
+          "title": "Campbell Teague is “AI native” now"
+        },
+        {
+          "time": "01:56",
+          "title": "The “biggest firm I could find” excuse"
+        },
+        {
+          "time": "04:52",
+          "title": "AI augmented, AI enabled"
+        },
+        {
+          "time": "06:37",
+          "title": "Deterministic workflows and Zapier"
+        },
+        {
+          "time": "08:38",
+          "title": "What it changes for lawyers"
+        },
+        {
+          "time": "10:26",
+          "title": "What real AI adoption looks like"
+        },
+        {
+          "time": "12:53",
+          "title": "Nobody can dictate like a boomer lawyer"
+        },
+        {
+          "time": "15:55",
+          "title": "Judgment maxing"
+        },
+        {
+          "time": "17:37",
+          "title": "The fate of junior lawyers"
+        },
+        {
+          "time": "20:07",
+          "title": "Delegation and vibes-based predictions"
+        },
+        {
+          "time": "21:38",
+          "title": "What runners teach us"
+        },
+        {
+          "time": "23:18",
+          "title": "Spicy prediction: the slopocalypse"
+        },
+        {
+          "time": "25:29",
+          "title": "Spicy take: class action waivers"
+        }
+      ],
+      "transcript": "ep002"
     }
   }
 }

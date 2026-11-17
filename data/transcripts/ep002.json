@@ -1,0 +1,247 @@
+[
+ {
+  "start": 0.3,
+  "speaker": "George Campbell",
+  "text": "Just because the tools change doesn't make you a native something. I mean, it's not like you were spawned by Claude into existence to suddenly provide legal services. (Cold open)"
+ },
+ {
+  "start": 35.09,
+  "speaker": "Jordan Teague",
+  "text": "Hey George. I've got an announcement. So this is pretty exciting. As of about five minutes ago, Campbell Teague is an AI native firm."
+ },
+ {
+  "start": 46.51,
+  "speaker": "George Campbell",
+  "text": "Really? Well, what changed?"
+ },
+ {
+  "start": 51.38,
+  "speaker": "Jordan Teague",
+  "text": "I don't know. Everyone else says they're AI native, so I thought it might be good for us to be too."
+ },
+ {
+  "start": 55.82,
+  "speaker": "George Campbell",
+  "text": "Yeah, that's silly."
+ },
+ {
+  "start": 60.87,
+  "speaker": "Jordan Teague",
+  "text": "Yeah, so what's with this trend?"
+ },
+ {
+  "start": 64.44,
+  "speaker": "George Campbell",
+  "text": "It's hilarious. It's like saying you were a pencil-native firm in the 1930s. I mean, of course you're using AI. Just because the tools change doesn't make you a native something. I mean, it's not like you were spawned by Claude into existence to suddenly provide legal services."
+ },
+ {
+  "start": 87.1,
+  "speaker": "Jordan Teague",
+  "text": "Yeah. And it seems to me like \"AI native\" is typically just a signal for \"we bought a ChatGPT subscription and added our associates to it.\" And a lot of firms aren't even really thinking about how to use AI. They're just finding the most expensive possible subscriptions they can and throwing money at them as a CYA exercise. The same reason that Fortune 500 companies go to Big Law. No shade on Big Law, you know, there's a lot of good lawyers there, but also nobody got fired for hiring Cravath or whatever."
+ },
+ {
+  "start": 116.9,
+  "speaker": "George Campbell",
+  "text": "No, but this is a whole separate podcast episode. My dad was general counsel of a publicly traded company. We've represented a lot of large companies. If I'm on the board, I think there is another trend that we're going to see out of AI native and all this stuff: a day is coming in which the general counsel will no longer be able to justify himself by simply saying, \"I hired the biggest firm I could find.\""
+ },
+ {
+  "start": 145.87,
+  "speaker": "Jordan Teague",
+  "text": "And why do you predict that day is coming?"
+ },
+ {
+  "start": 150.56,
+  "speaker": "George Campbell",
+  "text": "Well, first of all, it's never been a good excuse. And I think there was enough cover, and there's obviously corporate culture that wants to cover entrenched management. Again, this is a whole separate podcast, but with the advent of AI and the ability... I often like to think of it as, it's really like a prosthesis for knowledge work. In many ways, we think of automobiles as separate machines, but they've evolved into being a human prosthesis for mobility. AI is a tool. It amplifies and allows smaller groups of people to do more with less. So I think you're going to see... I had a conversation this week with a plaintiff's firm, and he's using another platform on the plaintiff's side that has been gaining some popularity now with venture funding. And it's allowing him, as a solo with two paralegals, to do stuff that heretofore was impossible. And I think Big Law, and the whole idea of \"we're just going to throw as much paper and people as possible\" as a defense tactic, is not as effective anymore. So for many of those reasons, like I said, I think it could be a whole separate podcast, but this whole idea of \"I just hired the biggest, most expensive firm I could find\" is going away. You'll still have, for reasons of ego and credential virtue signaling, firms that want to say... It's kind of like, I talk to investors sometimes, and they say, \"Well, I'm an LP at Carlyle.\" So you pay an enormous load fee, a ridiculous management fee, and get mediocre returns just to be able to say, \"I've got this gold standard investor. I'm a part of this investment.\" That makes absolutely no sense. It's like, firm or no firm, results matter. People want to pay for results. They're trying to hire the biggest firm they can find and feed their ego and say, \"Well, I'm represented by the AmLaw number two firm in the world.\" Well, that's great, but how do your results look?"
+ },
+ {
+  "start": 281.93,
+  "speaker": "Jordan Teague",
+  "text": "Well, yeah, everyone loves a little good old-fashioned prestige maxing every now and then."
+ },
+ {
+  "start": 286.4,
+  "speaker": "George Campbell",
+  "text": "Yeah, exactly. That's the term I was looking for. They're just out here prestige maxing, credential signaling, and losing."
+ },
+ {
+  "start": 292.7,
+  "speaker": "Jordan Teague",
+  "text": "Well, and so speaking of signaling, I think, kind of bringing it full circle, \"AI native,\" that's all that is, right? But you brought up an interesting concept, which is when machines almost become prosthetic extensions of humanity. So maybe a better way to think of this is not AI native, but AI augmented."
+ },
+ {
+  "start": 314.58,
+  "speaker": "George Campbell",
+  "text": "Yeah, AI enabled."
+ },
+ {
+  "start": 316.2,
+  "speaker": "Jordan Teague",
+  "text": "And so what do you think? What are the minimum viable facts for a lawyer to be able to claim that they are AI augmented?"
+ },
+ {
+  "start": 324.98,
+  "speaker": "George Campbell",
+  "text": "Well, just jumping back to first principles, one of the reasons that's so hilarious is because everything they've been using for the last, at a minimum, four years is AI enabled. They just didn't know that that was the underlying technology."
+ },
+ {
+  "start": 335.2,
+  "speaker": "Jordan Teague",
+  "text": "I mean, really, like eight years."
+ },
+ {
+  "start": 336.7,
+  "speaker": "George Campbell",
+  "text": "Yeah. Gmail. If you have a Gmail account, you've been AI enabled for the last decade or more. And Google is one of the pioneers in inventing these large language models, which were originally designed to translate languages. So I think it's probably kind of like the Wojak, normie, Jedi bell curve that you see in the famous internet memes, where the vast majority of people in the middle are going to think, \"This is so cool.\" But the really dumb folks and the really smart folks are like, \"No, you've just always been AI enabled. You're just using the current thing.\" It's the same. There's always going to be marketing and snake oil salesmen and virtue signaling and everyone who wants to say, you know, prestige maxing, \"We're AI enabled now.\" Well, congratulations. You just paid for a bunch of stuff you clearly don't understand, because if you did, you wouldn't even say that in the first place."
+ },
+ {
+  "start": 397.2,
+  "speaker": "Jordan Teague",
+  "text": "And I think the thing that drives me the most crazy is not only have we all been AI enabled this whole time, but the things that we're now calling AI are actually just deterministic workflows that we could have been building for at least the past decade. Or you just needed to know what Zapier was. That's true too. You know, there have always been no-code tools to make these things possible, and we've always experimented with these things."
+ },
+ {
+  "start": 424.6,
+  "speaker": "George Campbell",
+  "text": "Yeah, we've had those for a long time. So just for our listeners, for those of you who don't know what Zapier is..."
+ },
+ {
+  "start": 430.75,
+  "speaker": "Jordan Teague",
+  "text": "Or deterministic."
+ },
+ {
+  "start": 430.86,
+  "speaker": "George Campbell",
+  "text": "Yeah, or deterministic. It's basic logic, and it's how computers have always worked, with zeros and ones. But then if you have true/false, you can go \"if this, then that.\" And so if something's true here, then that happens. Or if something is false here, then this happens. How would you have built a deterministic workflow? How would you run zaps to connect things before everything got magically AI enabled?"
+ },
+ {
+  "start": 453.9,
+  "speaker": "Jordan Teague",
+  "text": "Yeah, so I'm trying to think of an example, but if you've got something that you're doing over here in one platform and you want a result in another platform, then you would create what's called a zap to connect those via API. So, I don't know, take DocuSign as a simple example, because everyone's familiar with that. DocuSign has always been Zapier enabled. So you could think of maybe an approval workflow where you do a draft, somebody gives it a thumbs up in Teams, and then you want that to automatically go out to DocuSign to the parties. That would be an easy example. Well, now you can use Claude or Copilot or Microsoft Power Automate, those kinds of things, to build these. But it's not because it's this novel technological innovation. It's just now easier for the average person to do. Well, it's also easier for a coder to do. I've always been code slinging, ever since I was 10 years old, but it's a heck of a lot easier for me to just go in the chat and say, \"Please build this,\" right? So it makes it faster for me too."
+ },
+ {
+  "start": 518.9,
+  "speaker": "George Campbell",
+  "text": "Yeah. I mean, translate that into law. Most of the work associates have done here before is just give me the first draft, or even the paralegals. And so then your senior partner can work a lot faster if he's already got a draft motion for summary judgment on his plate. The amount of time it takes for me to review that, if I'm not having to cite check on the case law, and I'm not having to do the cite check on the record references, I can knock that out in an hour. I mean, maybe less, depending on how complicated the issues are. But it's that slow slog of building the record, and all the hyperlinks back and forth between the record citations and the case law citations, and the assembly line work that took so much. And now you've got these fancy next-word predictors that can slam all that text in for you."
+ },
+ {
+  "start": 568.41,
+  "speaker": "Jordan Teague",
+  "text": "Right. Exactly. But we're just calling all of this AI now, apparently. So it drives me crazy."
+ },
+ {
+  "start": 573.4,
+  "speaker": "George Campbell",
+  "text": "Yeah, well, I think it was... you saw the beginning of this. It's kind of like when crypto first hit the scene and everybody had something to do with crypto or tokens, or they were trying to just put that into their marketing. And then I remember I was speaking at ETH Chicago four years ago. It was right when AI was starting to really get some traction. ChatGPT may or may not have even hit the scene, but everyone started putting AI on their website. And the big joke was, well, if you need a 10% bump in your stock, just put AI somewhere on your website and your stock will go up. But they weren't changing anything. The workflows were the same. And a lot of the bigger corporations have always had these types of machine learning, at least since 2015, running in the background."
+ },
+ {
+  "start": 626.6,
+  "speaker": "Jordan Teague",
+  "text": "Well, so it's easy to put AI on a product name, or as a virtue signal: \"We're AI native.\" Why is real AI adoption so hard? Well, first of all, what does real AI adoption look like?"
+ },
+ {
+  "start": 639.7,
+  "speaker": "George Campbell",
+  "text": "Yeah, you asked me that, and I dodged the question. I think real AI adoption... and we even have to define what is AI, or superintelligence. I think the government changed the name again. What is that? We really don't have a clear definition of that. But I think if you look at using that prosthesis, and if you were going to ask me my personal opinion, I would say, all right, you've been doing a lot of deep dives into Claude. I've been working with Grok as we've been testing these systems, and working with Copilot as well. I think real AI adoption doesn't happen until you have something like, if you've seen the Iron Man movie, Jarvis, where I've got a Jarvis on in real time with me all the time, voice activated, like you would say \"Hey Siri\" to your iPhone. You're just talking to it and having it run tasks whenever you think about it. And no typing. There's no one typing anything in, and I can just say, \"Hey Jarvis, go research this file,\" or \"Hey Jarvis, listen to this meeting we're about to sit in on, and then go ahead and do all the conflicts check and get an engagement letter set up for the client to sign.\" That, I think, is real AI enabled. And to use the prosthesis analogy, you're wearing it while you're working. That's truly AI enabled. Everything else, just because you can get Copilot to rewrite your email, does not make you AI enabled. You're just using the current thing that's on whatever the basic platform is. But I think we're going to get relatively quickly to a place where, whether they're the Meta glasses from Facebook or the Plaud pendants that you wear, or just the phones or the Apple Watch we already carry everywhere... We all know they're spying on us anyway and listening to us. Just look at your social media feed for the advertisements. But that, I think, is the definition of AI native or AI enabled: you're enabled when you're wearing the prosthesis."
+ },
+ {
+  "start": 773.5,
+  "speaker": "Jordan Teague",
+  "text": "And luckily for our profession, lawyers are super tech-forward and will have a really easy time getting on board with this."
+ },
+ {
+  "start": 779.27,
+  "speaker": "George Campbell",
+  "text": "It's funny you say that, because I've seen so much speculation from some of the hustle bros on X talking about, \"We're in this little bubble. Nobody's using AI. There's still thousands of boomers out there running their plumbing business on paper.\" In my experience, and I could be in a bubble, but in my experience in a relatively heavy manufacturing part of the world down here in the I-85 corridor, there's a lot of Ray-Rays, Nuck-Nucks and Bubbas who highly educated people would look on with disdain, but they're real smart and they've been figuring this stuff out. And don't think that rednecks aren't on this too, because, I mean, guys I know where I grew up in South Georgia are using it in their blue-collar businesses, and they're not stupid. They're very smart. And like that plaintiff's lawyer I was talking with last week, I mean, he's building agents, he's doing all kinds of stuff, and this dude's in his early 60s and he ain't scared. I think there's a lot of... it's like Mark Twain said: it ain't what you don't know that gets you. It's what you know for certain that just ain't true. I think a lot of people have this hubris and arrogance, especially of our generation or younger, that we're the only ones who understand tech. Well, it was true that you had an arbitrage with a graphical user interface and typing, because that was not a skill that our parents really learned, but nobody can dictate like a boomer lawyer. And now they've got a way to do that. So in some sense, they may be back in the game with a lot more efficacy than anyone thinks."
+ },
+ {
+  "start": 891.51,
+  "speaker": "Jordan Teague",
+  "text": "Well, right, because now they can plug their OG user interface straight into the technology."
+ },
+ {
+  "start": 897.02,
+  "speaker": "George Campbell",
+  "text": "Exactly, exactly. And there's a lot of wisdom there, you know, because, like we always tell our younger people when they join the firm, experience is expensive and good judgment only comes from bad judgment. And you need a lot of years to accumulate that wisdom. So if you think that you're going to outrun that without a lot of reps and painful bad experiences, then you're kidding yourself."
+ },
+ {
+  "start": 924.1,
+  "speaker": "Jordan Teague",
+  "text": "Yeah, for sure. And it seems like, in general, the real edge is going to be with these senior partner lawyers who bother to pick up the technology and figure it out, because they're going to be able to magnify their judgment. Again, to your point about wisdom and gray hair, it just takes experience and reps to really earn judgment. If they can figure out how to use this, then the rest of us are cooked."
+ },
+ {
+  "start": 955.5,
+  "speaker": "George Campbell",
+  "text": "Yeah, exactly. You know, it's interesting you say that, because I read this a while ago, but it was talking about a lot of the Silicon Valley startups, modern tech companies with Gen X and now millennial managers. There's a lot of age discrimination in those cultures. And a lot of boomers got wiped out of the workforce in the financial crisis, and they couldn't come back in. One thing I'm looking to do for us, and I'll just say the quiet part out loud, is figure out ways that we can use this technology to work with those boomers and give them another 10 years of life. Because if you can hitch your wagon to somebody with that much experience and give them a way to help you in your business, that's an enormous advantage. But just YOLOing off thinking that at 44 I know everything on God's green earth about how to run a law firm and help a client and navigate things? That's a fairy tale. It's not even a fairy tale, it's just a pipe dream. So I think the people who are smart are going to use this technology to gain access to experienced senior lawyers, bring them into what they're working on and get really good advice, because that's where the arbitrage is. It's not in analysis. Analysis is a commodity now. Anybody can do that. Do you have the experience and the judgment on your team? If you can be judgment maxing instead of prestige maxing or credential maxing, then that, I think, is where you'll find the people who'll be most successful."
+ },
+ {
+  "start": 1057.08,
+  "speaker": "Jordan Teague",
+  "text": "So I feel like another hot debate right now, when it comes to judgment in the legal profession, is the fate of junior lawyers. And what I perceive is a little bit of an assumption that the role of the junior is going to greatly diminish, because it's just faster for a senior lawyer to do it themselves with AI. What say thee of that?"
+ },
+ {
+  "start": 1085.52,
+  "speaker": "George Campbell",
+  "text": "I think that's making a future prediction using present assumptions. And you either have to make a future prediction using future assumptions, or a present prediction using present assumptions. But it's the wrong mental map. Depending on who you read or who you believe, lawyers right now, or access to legal services, is limited to only about maybe 20%, in some cases 30, at most 40% of the population. I don't know any other market where, by the use of technology, your total addressable market could double. And so with those junior lawyers, right now it's not cost-effective for them to handle a $5,000 fender bender or a small contract dispute. You just settle it, walk away, write it off. Well, now those types of disputes are very cost-effective for a junior lawyer to handle. So I think you will still see a lot of junior lawyers working, perhaps on smaller-stakes matters, because they can do it cheaper and the stakes are lower, so the client is not as upset if you screw it up. And at the end of the day, it's kind of like the problem we had in crypto with on-ramp and off-ramp. There's got to be a human review off-ramp for this stuff. You can't just plug it into the machine and go full send and let the automation go. At least until we replace the court system and human nature. But there's got to be human review, and I think you're just going to see more work that more juniors have got to spend time reviewing. And if it's lower-stakes stuff, well, then they'll be content with a junior review, and only the higher-stakes things should go to the senior review. But the dirty little secret is every other business in the world runs like that. There's no reason law firms shouldn't as well. And if they are, the only reason they're doing that is to run up the bill so they can get their billable hours in."
+ },
+ {
+  "start": 1207.33,
+  "speaker": "Jordan Teague",
+  "text": "Right. Yeah, I think you make a really good point that making future predictions with present facts is typically ill-advised. I think also the loudest people in the room right now about AI are probably the ones who tend to have a hard time finding ROI with delegation in the first place. And, you know, I'll even throw myself under the bus with that too. We all know that my favorite thing to do is just lock myself in a room for 12 hours with a laptop and see what kind of magic comes out of there. So I get it. I really do. But it's me and everyone like me who's screaming on Twitter and on LinkedIn about this. It has never been faster in the short term to delegate and train, for anyone. Never. The ROI on delegation requires an investment, and that investment has always been time. And so the question is not, \"Is it faster in the short term for me to do it myself with AI?\" Because obviously the answer is yes. The question is: does AI change the ROI equation? Does it make the ROI greater? Does it keep it the same? Does it diminish it? Does it eliminate it? A lot of people think it's going to eliminate it, but let's be honest, you're making that prediction based on vibes. And that's fine. You're entitled to do that. But I don't think that we should throw decades of wisdom on the management of a professional services firm out the window just because we have this new technology."
+ },
+ {
+  "start": 1298.73,
+  "speaker": "George Campbell",
+  "text": "Yeah. I mean, a good previous example would be runners. Back in the day, which I caught the tail end of when I started my career, before electronic filing... and luckily my office was in the courthouse, so I didn't have to go that far to file something."
+ },
+ {
+  "start": 1315.67,
+  "speaker": "Jordan Teague",
+  "text": "What's a runner, for people who don't know?"
+ },
+ {
+  "start": 1317.1,
+  "speaker": "George Campbell",
+  "text": "So you had to go physically to the courthouse to file something, or send it by registered mail with multiple copies for the clerk to stamp: one for them, one for the opposing party and one for you. Wait for that to come back, and then serve it on the other side. And then once you've got proof of service, mail that back to the clerk. Well, if you wanted to do anything without waiting two or three weeks for all that mail to go back and forth, you had runners, and they were just couriers for law firms who would run down to the clerk, run it back to your office, run it over to opposing counsel, give it to the process server to take and go serve it on everybody. So you had a courier who could do that. And then this magical technology called email came along. And that did eliminate the runner as a job description, and it was an entry-level point for a law firm. But lawyers have not stopped hiring entry-level people. They're now doing different things like intake, or managing the docket, or calendaring, or secretary work, whatever, reviewing discovery. So that didn't go away. The job just shifted. There's still just as many people working in law firms as there were 30 years ago when runners were a profession. It's just humans are doing a different task, because the computer handles the filing."
+ },
+ {
+  "start": 1398.09,
+  "speaker": "Jordan Teague",
+  "text": "Okay. Well, I'm running tight on time, because I need to go argue with Claude about something that it's doing wrong that I could have done faster myself. But before we close, what is one spicy prediction that you have on where this is all headed in our profession?"
+ },
+ {
+  "start": 1418.01,
+  "speaker": "George Campbell",
+  "text": "That's a great question. And I hate it when people say \"that's a great question,\" because it's just a filler to say, \"I don't know the answer and I'm trying to buy time to think about it.\" So I'm working on not saying that. One spicy prediction I have is that in the short term, we are going to see an explosion in legal demand, particularly as a byproduct of what we call the slopocalypse, because lawyers, especially unscrupulous lawyers, no matter what the consequences have always been, they're going to keep sending in slop and trying not to get caught. But even worse, pro se litigants are going to mob the court system, because now there's this power-to-the-people element. And a good example of what was the very frontier of this was DoNotPay.com. But now you can have your Claude bot go track down the spam caller who's been wearing you out, get all their information, and then launch a TCPA complaint. So I think the court systems are not ready for this slopocalypse. They have their head in the sand, and the judges need to take note and get ahead of this problem. Simple fixes could be page limits on briefs, or asking for leave of the court to do more filing, raising the cost of filing fees, which absolutely needs to happen. It makes no sense that a $20 million lawsuit and a $500 lawsuit have the same filing fee. That doesn't mean you should go crazy and be punitive, but they are not equipped. They do not have the staff or the resources to handle a flood of pro se litigation, which I think in the short term is going to happen, and they need to get out ahead of it."
+ },
+ {
+  "start": 1529.72,
+  "speaker": "Jordan Teague",
+  "text": "So I'm going to give you a spicy take that kind of dovetails on that, which is: people are going to stop putting class action waivers in their contracts."
+ },
+ {
+  "start": 1538.6,
+  "speaker": "George Campbell",
+  "text": "Absolutely."
+ },
+ {
+  "start": 1540.6,
+  "speaker": "Jordan Teague",
+  "text": "And I have been on the defense side of mass arbitrations before. And if a plaintiff's lawyer figures out how to do a mass action really well, or I guess mass individual actions is what I mean, that's a much bigger headache than a class action."
+ },
+ {
+  "start": 1557.86,
+  "speaker": "George Campbell",
+  "text": "Well, now you can have an army of bots, and one plaintiff's lawyer can manage 500 lawsuits pretty easily. So the whole world of class actions may be turning upside down before this is over."
+ },
+ {
+  "start": 1573.31,
+  "speaker": "Jordan Teague",
+  "text": "Cool. Well, I'm going to go argue with Claude now."
+ },
+ {
+  "start": 1576.34,
+  "speaker": "George Campbell",
+  "text": "All right. Good take."
+ }
+]
