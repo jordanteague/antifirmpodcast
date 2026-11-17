@@ -40,10 +40,10 @@ export function SiteHeader() {
         scrolled || open ? "border-b border-rule bg-background-primary/85 backdrop-blur-md" : "border-b border-transparent"
       }`}
     >
-      <div className="container-page flex items-center gap-8 py-5 lg:gap-14 lg:py-6">
+      <div className="container-page flex items-center gap-4 py-5 sm:gap-8 lg:gap-14 lg:py-6">
         <a href={asset("/")} className="shrink-0" aria-label={`${site.name} podcast home`}>
           {/* Placeholder logo cut from the mockup. Swap public/images/logo.png for the hi-res file. */}
-          <Image src={logo} alt="" priority className="h-auto w-28 lg:w-[8.5rem]" />
+          <Image src={logo} alt="" priority className="h-auto w-24 min-[360px]:w-28 lg:w-[8.5rem]" />
         </a>
 
         <nav aria-label="Main" className="hidden md:block">
@@ -68,9 +68,20 @@ export function SiteHeader() {
           ))}
         </ul>
 
+        {/* Phones: the three listening apps stay visible next to the menu. */}
+        <ul className="ml-auto flex items-center gap-3 sm:hidden" aria-label={`Listen to ${site.name}`}>
+          {site.subscribe.map((s) => (
+            <li key={s.id}>
+              <a href={s.href} aria-label={s.label} className="block transition-colors hover:text-brand-lime">
+                <PlatformIcon id={s.id} className="size-5" />
+              </a>
+            </li>
+          ))}
+        </ul>
+
         <button
           type="button"
-          className="label ml-auto flex items-center gap-3 sm:ml-6 md:hidden"
+          className="label ml-1 flex items-center gap-2 sm:ml-6 sm:gap-3 md:hidden"
           aria-expanded={open}
           aria-controls="mobile-menu"
           onClick={() => setOpen((v) => !v)}
