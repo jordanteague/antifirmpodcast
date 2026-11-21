@@ -1,10 +1,12 @@
 const hosts = [
   {
     name: "Jordan",
+    firmBio: "https://campbellteague.com/jordan-teague/",
     bio: "Jordan Teague is a founding partner and Chief Strategy Officer at Campbell Teague. Professionally allergic to “that’s how we’ve always done it.”",
   },
   {
     name: "George",
+    firmBio: "https://campbellteague.com/george-campbell/",
     bio: "George Campbell is a founding partner and Managing Partner at Campbell Teague. When it comes to lawyers who mail it in, he’s got…thoughts.",
   },
 ];
@@ -20,10 +22,18 @@ export function About() {
             problem.
           </p>
           <div id="hosts" className="grid gap-8 sm:grid-cols-2">
-            {hosts.map(({ name, bio }) => (
+            {hosts.map(({ name, bio, firmBio }) => (
               <div key={name}>
                 <h3 className="font-display text-5xl font-black uppercase leading-none [font-stretch:68%]">{name}</h3>
                 <p className="mt-2 max-w-[42ch] text-text-secondary">{bio}</p>
+                <a
+                  href={firmBio}
+                  target="_blank"
+                  rel="noopener"
+                  className="label mt-4 inline-flex items-center gap-2 text-[0.7rem] transition-colors hover:text-brand-lime"
+                >
+                  Full bio at Campbell Teague <span aria-hidden="true">↗</span>
+                </a>
               </div>
             ))}
           </div>
