@@ -115,7 +115,9 @@ function parseFeed(xml: string): Episode[] {
   return items
     .map((item): Episode => {
       const id = text(item.guid) || text(item.link) || text(item.title);
-      const number = Number(text(item["itunes:episode"]));
+      // Spotify for Creators can leave out itunes:episode; fall back to "Episode 2" / "Ep. 2" / "EP002" in the title.
+      const number =
+        Number(text(item["itunes:episode"])) || episodeNumberFromTitle(text(item["itunes:title"]) || text(item.title));
       const type = text(item["itunes:episodeType"]).toLowerCase();
       // Meta can be keyed by the feed guid, or by episode number before the guid exists.
       const m: Meta = extra[id] ?? (type === "full" || !type ? byNumber[String(number)] : undefined) ?? {};
@@ -143,6 +145,12 @@ function parseFeed(xml: string): Episode[] {
       };
     })
     .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+/** "Mailing It In – Episode 1", "Ep. 2: …", "EP003 – …" → the number, or 0 when the title has none. */
+export function episodeNumberFromTitle(title: string) {
+  const m = title.match(/\b(?:episode|ep)\.?\s*#?0*(\d{1,4})\b/i);
+  return m ? Number(m[1]) : 0;
 }
 
 /**
