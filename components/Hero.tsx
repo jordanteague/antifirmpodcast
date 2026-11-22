@@ -2,7 +2,7 @@ import { Fragment } from "react";
 import { site } from "@/data/site";
 import { Button } from "./Button";
 import { HeroArt } from "./HeroArt";
-import { PlayIcon } from "./icons";
+import { PlatformIcon, PlayIcon } from "./icons";
 
 // Two lines on wider screens; on phones each phrase gets its own line.
 const lines = [["Business.", "Law."], ["Other things"]];
@@ -48,6 +48,22 @@ export function Hero({ trailerHref }: { trailerHref: string }) {
             <Button href="#episodes" variant="outline">
               Explore episodes <span aria-hidden="true">→</span>
             </Button>
+          </div>
+          <div
+            className="anim-rise mt-7 flex flex-wrap items-center gap-x-5 gap-y-3"
+            style={{ "--delay": "660ms" } as React.CSSProperties}
+          >
+            <span className="label text-text-secondary">Follow on</span>
+            <ul className="flex flex-wrap gap-x-5 gap-y-3" aria-label={`Follow ${site.name}`}>
+              {site.subscribe.map((s) => (
+                <li key={s.id}>
+                  <a href={s.href} className="label inline-flex items-center gap-2 transition-colors hover:text-brand-lime">
+                    <PlatformIcon id={s.id} className="size-[1.1rem]" />
+                    {s.label}
+                  </a>
+                </li>
+              ))}
+            </ul>
           </div>
         </div>
 
