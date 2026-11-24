@@ -1,0 +1,1919 @@
+1
+00:00:00,630 --> 00:00:02,750
+[George] I've never met anybody
+
+2
+00:00:03,550 --> 00:00:06,860
+who wanted to have the
+eulogy at their funeral
+
+3
+00:00:07,520 --> 00:00:09,020
+say he was awesome at being mediocre.
+
+4
+00:00:12,920 --> 00:00:15,540
+♪ Objection, your honor ♪
+
+5
+00:00:15,560 --> 00:00:17,140
+♪ One quick thing ♪
+
+6
+00:00:17,160 --> 00:00:18,580
+♪ That meeting about the meeting ♪
+
+7
+00:00:18,600 --> 00:00:20,450
+♪ Just billed me for the meeting ♪
+
+8
+00:00:20,850 --> 00:00:22,830
+[Announcer] This is ANTIFIRM.
+
+9
+00:00:22,850 --> 00:00:27,630
+A podcast about business, law,
+and other things that sound boring
+
+10
+00:00:27,650 --> 00:00:29,650
+until they're your problem.
+
+11
+00:00:32,463 --> 00:00:36,597
+[Jordan] George, what's the thing that
+bothers you most about the legal profession?
+
+12
+00:00:36,617 --> 00:00:39,993
+[George] Mediocrity.
+People just mailing it in.
+
+13
+00:00:40,063 --> 00:00:42,873
+It's just, I can't, I can't stand it.
+
+14
+00:00:43,103 --> 00:00:47,833
+The mediocrity and cowardice. And
+I think those two go hand in hand.
+
+15
+00:00:49,823 --> 00:00:50,823
+But
+
+16
+00:00:51,343 --> 00:00:55,433
+yeah, and it's not even laziness.
+You see so many lawyers.
+
+17
+00:00:55,850 --> 00:00:59,380
+Who are very diligent,
+conscientious people.
+
+18
+00:00:59,690 --> 00:01:03,830
+But the work product you get, and we've
+talked about this, it doesn't matter if
+
+19
+00:01:03,850 --> 00:01:07,670
+it's a small-town solo
+or an Amlaw 50 firm.
+
+20
+00:01:07,690 --> 00:01:12,180
+You still see the wrong client
+name in deal documents.
+
+21
+00:01:13,050 --> 00:01:15,344
+I don't know. I mean, there's so
+many ways you could take this.
+
+22
+00:01:15,364 --> 00:01:20,418
+I do think that in many ways, and we're
+seeing this with the AI slopocalypse
+
+23
+00:01:20,438 --> 00:01:24,128
+that's coming right now. But
+the word processor and computers
+
+24
+00:01:25,718 --> 00:01:31,798
+may have done more harm than good to the
+legal profession because file save as
+
+25
+00:01:31,818 --> 00:01:36,918
+is so tempting. Just like now, I could
+actually read and check my source
+
+26
+00:01:36,938 --> 00:01:41,216
+documents or I could just ask
+chat. File save as and copypasta.
+
+27
+00:01:41,236 --> 00:01:45,376
+Yes, exactly. And so, you know, everybody's,
+oh, I got a good template for that.
+
+28
+00:01:45,396 --> 00:01:50,126
+And I mean, can you believe that people
+are paying New York lawyers over fifty
+
+29
+00:01:50,276 --> 00:01:55,216
+first-year associates even $1,500 an hour
+to be a glorified copy-paste assistant
+
+30
+00:01:55,236 --> 00:01:56,176
+from some template?
+
+31
+00:01:56,196 --> 00:01:56,696
+[Jordan] Yeah.
+
+32
+00:01:56,516 --> 00:02:00,622
+[George] Who, by the way, have never
+litigated any of the deal documents they're
+
+33
+00:02:00,642 --> 00:02:02,542
+drafting. They have no
+idea what they're doing.
+
+34
+00:02:02,562 --> 00:02:05,342
+It's just somebody told
+them it was standard.
+
+35
+00:02:05,362 --> 00:02:10,012
+And that's what's getting billed
+as competent legal advice.
+
+36
+00:02:10,242 --> 00:02:14,412
+[Jordan] And you mentioned the slopocalypse.
+I definitely want to get back to that.
+
+37
+00:02:14,722 --> 00:02:19,932
+But first, kind of on the idea of
+file, save as, copypasta, before.
+
+38
+00:02:20,119 --> 00:02:22,419
+We just throw the rest of the
+legal profession under the bus.
+
+39
+00:02:22,439 --> 00:02:24,499
+I have to throw myself
+under the bus a little bit.
+
+40
+00:02:24,519 --> 00:02:29,619
+So, when I was a first-year associate,
+and you know, I think I have high-quality
+
+41
+00:02:29,639 --> 00:02:33,459
+standards, I think I always have. I
+care about my work product, right?
+
+42
+00:02:33,479 --> 00:02:39,139
+I got called out for putting the wrong
+district or division name for a federal
+
+43
+00:02:39,159 --> 00:02:42,049
+court in a pleading. So,
+it was you know, like.
+
+44
+00:02:42,260 --> 00:02:44,880
+The correct district, but not the
+right division, something like that.
+
+45
+00:02:44,900 --> 00:02:47,310
+And it's because I copy-pasted. Yeah.
+
+46
+00:02:47,460 --> 00:02:52,560
+And my boss at the time was gracious
+about it, but you know, don't let this
+
+47
+00:02:52,580 --> 00:02:56,750
+happen again. And that really
+stuck with me ever since then.
+
+48
+00:02:57,060 --> 00:03:01,999
+How important those details are, because
+really, how you do anything is how you
+
+49
+00:03:02,020 --> 00:03:07,253
+do everything. And the point he was trying
+to convey to me was: yeah, maybe it's
+
+50
+00:03:07,273 --> 00:03:10,693
+not super consequential that you
+had the wrong division in there.
+
+51
+00:03:10,713 --> 00:03:12,613
+No one's going to know.
+No one's going to care.
+
+52
+00:03:12,633 --> 00:03:15,173
+It's not going to affect the
+validity of this pleading.
+
+53
+00:03:15,193 --> 00:03:16,853
+But what does that
+communicate to our clients?
+
+54
+00:03:16,873 --> 00:03:21,043
+What does this communicate to the
+judge if they happen to pick up on it?
+
+55
+00:03:21,193 --> 00:03:23,013
+What else is wrong in this document?
+
+56
+00:03:23,033 --> 00:03:26,243
+[George] Yeah, it was like you always say:
+you see one cockroach, you know there's more.
+
+57
+00:03:26,420 --> 00:03:31,040
+And that's what typos are. And I think
+we talked about this early on when we
+
+58
+00:03:31,060 --> 00:03:33,430
+were starting the firm. And
+
+59
+00:03:34,580 --> 00:03:38,240
+that to me was a good sign that
+we were both aligned on it.
+
+60
+00:03:38,260 --> 00:03:42,509
+But also, I think we were fortunate enough
+to have good mentors early enough in
+
+61
+00:03:42,529 --> 00:03:45,789
+our career. I mean, I could probably
+tell you 20, you've had one story.
+
+62
+00:03:45,809 --> 00:03:48,699
+I've probably got a walk-in closet
+full of skeletons for like.
+
+63
+00:03:48,724 --> 00:03:51,953
+Typos and stuff I messed up. And I mean,
+I remember several times being in my
+
+64
+00:03:51,973 --> 00:03:56,752
+boss's office and getting
+chewed out for stupid stuff.
+
+65
+00:03:56,772 --> 00:03:59,942
+And it was all my fault. And
+you just have to own it and
+
+66
+00:04:02,212 --> 00:04:08,382
+eat your pride. And it's tough,
+but that's how you learn.
+
+67
+00:04:08,503 --> 00:04:12,205
+It's what we always talk about here at
+the firm is the three principles of
+
+68
+00:04:12,225 --> 00:04:15,165
+learning are primacy,
+recency, and intensity.
+
+69
+00:04:15,185 --> 00:04:17,795
+And everyone tries to do a good job of
+
+70
+00:04:18,865 --> 00:04:23,258
+making sure we get good habits out the
+gate and keeping fresh with recurrent
+
+71
+00:04:23,278 --> 00:04:26,458
+training. At least that's in theory
+what CLEs are supposed to do.
+
+72
+00:04:26,478 --> 00:04:30,648
+But I see also a lot of
+lacking of intensity.
+
+73
+00:04:30,829 --> 00:04:34,409
+And that kind of goes to play
+with the idea of mediocrity.
+
+74
+00:04:34,429 --> 00:04:37,529
+And it's one of the toxic elements we talk
+about big law, and one of the reasons
+
+75
+00:04:37,549 --> 00:04:41,449
+that you and I wanted to pick a different
+course is because many big law firms
+
+76
+00:04:41,469 --> 00:04:45,818
+fall victim to that tendency of just
+screaming at each other in intensity.
+
+77
+00:04:45,838 --> 00:04:50,378
+But there's a kernel of truth in that,
+in that if you're holding someone to a
+
+78
+00:04:50,398 --> 00:04:53,448
+high standard and you make it
+a very intense experience.
+
+79
+00:04:53,640 --> 00:04:59,700
+When they miss, they remember that.
+Ergo, your experience with copy-pasting
+
+80
+00:04:59,720 --> 00:05:00,980
+the wrong division name.
+
+81
+00:05:01,000 --> 00:05:01,540
+[Jordan] Yep.
+
+82
+00:05:01,560 --> 00:05:04,500
+[George] That wasn't a pleasant event for
+you, and you probably wouldn't want to go do
+
+83
+00:05:04,520 --> 00:05:05,020
+that again.
+
+84
+00:05:05,000 --> 00:05:07,811
+[Jordan] But no, I would
+call that a core memory.
+
+85
+00:05:08,040 --> 00:05:14,125
+[George] Exactly. And so I think we've got
+to find ways as lawyers in the profession
+
+86
+00:05:14,145 --> 00:05:19,323
+to not be abusive, toxic, you know,
+the typical horror stories you've heard
+
+87
+00:05:19,343 --> 00:05:23,883
+from senior partners throwing a temper
+tantrum, but also applying a level of
+
+88
+00:05:23,903 --> 00:05:28,953
+seriousness to training so
+that those habits are formed.
+
+89
+00:05:29,423 --> 00:05:32,203
+But because, like you say, how you do
+anything is how you do everything.
+
+90
+00:05:32,223 --> 00:05:35,633
+And so you might miss something
+on a document now, but
+
+91
+00:05:36,627 --> 00:05:41,425
+You know, we could go down the list of
+all the horror stories of people who, I
+
+92
+00:05:41,445 --> 00:05:45,787
+mean, there was one at a large law firm
+in Atlanta, I remember 20 years ago,
+
+93
+00:05:45,937 --> 00:05:49,357
+very bright young associate who actually
+hit reply all and disclosed the whole
+
+94
+00:05:49,377 --> 00:05:51,278
+trial strategy to the other side.
+
+95
+00:05:51,298 --> 00:05:52,238
+[Jordan] Yeah.
+
+96
+00:05:52,258 --> 00:05:56,477
+[George] Because that's that one little mouse
+click that was, and that's why I say that
+
+97
+00:05:56,497 --> 00:05:59,787
+there's a lot of danger in all this
+technology because it automates.
+
+98
+00:06:00,163 --> 00:06:03,503
+Automation amplifies both
+the good and the bad.
+
+99
+00:06:03,523 --> 00:06:05,214
+It's not a one-way street.
+
+100
+00:06:05,283 --> 00:06:10,463
+[Jordan] Well, and I think amplify is a good
+word because we can't blame technology for
+
+101
+00:06:10,483 --> 00:06:13,333
+this. I think we're seeing a new
+
+102
+00:06:14,723 --> 00:06:16,783
+magnification of the problem, I suppose.
+
+103
+00:06:16,803 --> 00:06:20,703
+But so if technology is not to
+blame, where does this come from?
+
+104
+00:06:20,723 --> 00:06:26,474
+Why do we all tend toward mediocrity
+when there's a better way?
+
+105
+00:06:27,264 --> 00:06:29,609
+[George] I think the way
+the profession is set up.
+
+106
+00:06:29,629 --> 00:06:33,929
+I mean, think about it, as I always tell
+a lot of clients this when we're they
+
+107
+00:06:33,949 --> 00:06:35,799
+come to talk to us and
+see if we can help them.
+
+108
+00:06:36,589 --> 00:06:39,419
+We do it differently here and there's a
+different process and this is not going
+
+109
+00:06:39,439 --> 00:06:40,439
+to be like
+
+110
+00:06:41,119 --> 00:06:45,316
+probably not like any other legal
+experience you've had, but your typical law
+
+111
+00:06:45,336 --> 00:06:50,596
+firm engagement says, okay, well, you've
+identified something wrong that you
+
+112
+00:06:50,616 --> 00:06:55,716
+need fixed or where you need help, and
+you're going to sign up to pay an unknown
+
+113
+00:06:55,736 --> 00:07:00,374
+amount of money for an unlimited amount
+of time for an unknown result because
+
+114
+00:07:00,394 --> 00:07:04,454
+the ethical rules prohibit me from
+promising you any particular result.
+
+115
+00:07:04,474 --> 00:07:07,764
+And we'll stop either when
+you run out of money.
+
+116
+00:07:07,828 --> 00:07:10,718
+Or I say we're through.
+Do you want to play?
+
+117
+00:07:11,268 --> 00:07:17,125
+Nobody ever wants to play that game,
+especially in the context of business law.
+
+118
+00:07:17,145 --> 00:07:22,497
+And this is where you've sort of seen as
+business and our economy gets more and
+
+119
+00:07:22,517 --> 00:07:28,472
+more complicated and complex, as
+a very vast chasm from The run
+
+120
+00:07:28,492 --> 00:07:31,992
+of the mill, like where I started as
+a criminal prosecutor doing criminal
+
+121
+00:07:32,012 --> 00:07:33,422
+defense or
+
+122
+00:07:34,652 --> 00:07:39,752
+divorce law or adoption law, or some
+things that are much more familial,
+
+123
+00:07:39,772 --> 00:07:45,192
+personal, a counselor to the person versus
+business law, where we have got a lot
+
+124
+00:07:45,212 --> 00:07:50,312
+of jobs at stake. Families are
+counting on us to get these
+
+125
+00:07:50,332 --> 00:07:56,246
+results. But can't do that.
+And so, but the profession is
+
+126
+00:07:56,266 --> 00:07:58,996
+still stuck in this
+billable hour mentality.
+
+127
+00:07:59,306 --> 00:08:03,606
+And so you've got paying
+for time, not results.
+
+128
+00:08:03,626 --> 00:08:08,644
+And I was talking to a potential client,
+very successful owner of a company the
+
+129
+00:08:08,664 --> 00:08:12,434
+other day. And his point to me was:
+you don't get paid for trying.
+
+130
+00:08:13,506 --> 00:08:14,206
+[Jordan] That's right.
+
+131
+00:08:14,226 --> 00:08:15,226
+[George] And
+
+132
+00:08:16,066 --> 00:08:19,646
+that's what's so different. But I think
+that's part of the structural problem of
+
+133
+00:08:19,666 --> 00:08:25,421
+the profession: we've got to figure
+out some way to better align legal
+
+134
+00:08:25,441 --> 00:08:28,940
+spend and legal effort
+to business outcomes.
+
+135
+00:08:28,960 --> 00:08:30,941
+Because we've had this
+conversation so many times.
+
+136
+00:08:30,961 --> 00:08:35,581
+The only thing a client cares about
+is, I need to get this done by this
+
+137
+00:08:35,601 --> 00:08:36,601
+deadline.
+
+138
+00:08:36,671 --> 00:08:40,841
+[Jordan] Within this budget without anybody
+breaking the law or doing anything immoral.
+
+139
+00:08:41,391 --> 00:08:42,761
+[George] And nobody goes to jail.
+
+140
+00:08:42,831 --> 00:08:45,841
+[Jordan] Yeah. And so, you
+know, the billable hour, I think
+
+141
+00:08:47,071 --> 00:08:52,571
+it's a very real problem that what a
+client is willing to tolerate in terms of
+
+142
+00:08:52,591 --> 00:08:55,001
+legal spend limits the amount
+of work that we can do.
+
+143
+00:08:55,390 --> 00:09:00,040
+But I think that we hide behind that
+sometimes too as an excuse for.
+
+144
+00:09:00,501 --> 00:09:05,231
+Not doing the proper QA, if you want to
+take a term from the software industry,
+
+145
+00:09:05,541 --> 00:09:11,121
+[George] Quality assurance. And it seems to
+me that lawyers are inherently bad sometimes
+
+146
+00:09:11,141 --> 00:09:14,481
+at calibrating kind of the risk-reward.
+
+147
+00:09:14,501 --> 00:09:20,231
+You and I have both seen documents
+for hundred million-dollar deals that
+
+148
+00:09:20,901 --> 00:09:22,991
+clearly it was worth spending the extra.
+
+149
+00:09:23,192 --> 00:09:26,372
+20 minutes to have a second set of eyes
+on these things, but absolutely, you
+
+150
+00:09:26,392 --> 00:09:29,492
+know, YOLO. Yeah. It'll be fine.
+
+151
+00:09:29,512 --> 00:09:30,512
+[Jordan] And so
+
+152
+00:09:31,432 --> 00:09:35,042
+perhaps that's a skill that law school
+doesn't teach: risk calibration.
+
+153
+00:09:35,112 --> 00:09:38,132
+[George] No, not at all.
+A bit of business sense.
+
+154
+00:09:38,152 --> 00:09:38,652
+[Jordan] Yeah.
+
+155
+00:09:38,671 --> 00:09:43,986
+[George] Well, think your average lawyer is
+a creative, an academic, somebody who's very
+
+156
+00:09:44,006 --> 00:09:46,226
+interested in history
+and logic and argument.
+
+157
+00:09:46,246 --> 00:09:48,706
+Most people don't go to law school.
+They go to business school if they're
+
+158
+00:09:48,726 --> 00:09:54,667
+interested in business. But the way
+law school trains lawyers is not for
+
+159
+00:09:54,687 --> 00:09:59,227
+a desired result. You get one exam at
+the end of the semester and you're
+
+160
+00:09:59,247 --> 00:10:03,577
+supposed to verbal vomit everything
+that has crossed your eyes or ears.
+
+161
+00:10:03,902 --> 00:10:09,402
+Over the last four months. There's no
+way in the world that's connected to a
+
+162
+00:10:09,422 --> 00:10:10,362
+business outcome.
+
+163
+00:10:10,382 --> 00:10:13,672
+[Jordan] Yeah, that seems like a really
+useful method of training for life.
+
+164
+00:10:13,902 --> 00:10:17,002
+[George] That's why I always talk about we
+got to go back to the apprenticeship system or
+
+165
+00:10:17,022 --> 00:10:19,106
+some hybrid where you
+
+166
+00:10:20,256 --> 00:10:25,316
+have academic coursework, but you've
+got to have time training, and we need
+
+167
+00:10:25,336 --> 00:10:30,599
+mentors and. Before, 100 years ago,
+everybody just went to work for a lawyer.
+
+168
+00:10:30,619 --> 00:10:34,309
+And when you were ready, your boss
+submitted your name and said, you're ready.
+
+169
+00:10:36,619 --> 00:10:40,039
+That comes with its own quality
+control issues and different problems.
+
+170
+00:10:40,059 --> 00:10:45,159
+So I don't think there's any one perfect
+solution, but we've come too far the
+
+171
+00:10:45,179 --> 00:10:49,079
+other way where it's no secret that
+somebody coming out of law school is
+
+172
+00:10:49,099 --> 00:10:50,389
+absolutely useless.
+
+173
+00:10:50,602 --> 00:10:54,970
+[Jordan] Yeah. But they can pass the bar and
+go out to the public and hold themselves out
+
+174
+00:10:54,990 --> 00:11:00,410
+as a competent lawyer just the same as
+the most senior partner at the White She
+
+175
+00:11:00,430 --> 00:11:02,090
+Law Firm in New York.
+
+176
+00:11:02,110 --> 00:11:05,690
+[George] Yeah. And the problem
+is the standard is so low.
+
+177
+00:11:05,710 --> 00:11:11,210
+You know, if you simply pick up the
+phone and return a phone call within a
+
+178
+00:11:11,230 --> 00:11:14,040
+business day, remember
+to reply to the email.
+
+179
+00:11:14,463 --> 00:11:17,803
+And don't have any major screw-ups.
+
+180
+00:11:17,823 --> 00:11:19,593
+You're already in the top
+
+181
+00:11:20,223 --> 00:11:22,123
+[Jordan] 90% or top 10% of lawyers.
+
+182
+00:11:22,143 --> 00:11:25,003
+[George] Probably more than that.
+Well, you look at all the data points.
+
+183
+00:11:25,023 --> 00:11:27,643
+That's the number one complaint on
+lawyers, lack of responsiveness.
+
+184
+00:11:27,663 --> 00:11:30,043
+It's the number one ethical complaint.
+
+185
+00:11:30,063 --> 00:11:34,123
+And you and I recall sitting down
+with, you know, a very prominent lawyer
+
+186
+00:11:34,143 --> 00:11:36,222
+who was a mentor to us
+early on, and he told us.
+
+187
+00:11:36,242 --> 00:11:39,342
+When we were starting the firm, said, all
+you got to do is be nice to people and
+
+188
+00:11:39,362 --> 00:11:43,902
+return phone calls within 24 hours.
+The rest will take care of itself.
+
+189
+00:11:43,922 --> 00:11:46,172
+But think about from the
+client's perspective:
+
+190
+00:11:48,482 --> 00:11:51,662
+nobody pays a lawyer to have to
+keep worrying about a problem.
+
+191
+00:11:51,682 --> 00:11:55,982
+They're offloading the worry and the
+mental load to you to make this your
+
+192
+00:11:56,002 --> 00:11:58,652
+problem. And so you go, here's the money.
+
+193
+00:11:58,884 --> 00:12:01,584
+Here's the outcome I need.
+Please go make it happen.
+
+194
+00:12:01,604 --> 00:12:04,704
+Tell me when I'm needed. Otherwise, if I
+got to do it, then why do I got to pay you
+
+195
+00:12:04,724 --> 00:12:05,724
+for it?
+
+196
+00:12:06,484 --> 00:12:09,541
+[Jordan] But and going back to the business
+thing, you were saying you know, lawyers
+
+197
+00:12:09,561 --> 00:12:13,491
+don't have a lot of business
+sense. I think that is true.
+
+198
+00:12:13,881 --> 00:12:18,064
+you know, they go to law school or sorry,
+they go to undergrad, get a history
+
+199
+00:12:18,084 --> 00:12:23,198
+degree. Poli sci, English, whatever,
+which is good and noble and worthwhile.
+
+200
+00:12:23,218 --> 00:12:25,918
+And they go to law school,
+then they go to big law.
+
+201
+00:12:25,938 --> 00:12:28,798
+They start out writing research memos,
+and then they kind of grow in their
+
+202
+00:12:28,818 --> 00:12:34,588
+career. Never once have had P&L
+responsibility, management responsibility,
+
+203
+00:12:35,538 --> 00:12:41,118
+budget responsibility, having to make
+that risk-reward decision about where I
+
+204
+00:12:41,138 --> 00:12:44,398
+allocate resources or capital. I mean,
+they do it in a microcosm of their own
+
+205
+00:12:44,418 --> 00:12:46,558
+thing, but it's really
+just their billable work.
+
+206
+00:12:46,578 --> 00:12:49,994
+And they might have to manage
+a secretary or paralegal.
+
+207
+00:12:50,464 --> 00:12:55,724
+[George] That is not good training ground
+for someone who's trying to advise a business
+
+208
+00:12:55,744 --> 00:13:01,507
+owner or a company who's trying
+to achieve an economic result.
+
+209
+00:13:01,527 --> 00:13:07,451
+[Jordan] Right. Well, so we've talked
+a lot about how mediocrity is bad.
+
+210
+00:13:09,041 --> 00:13:14,941
+What would your advice be for especially
+young lawyers who see a better way,
+
+211
+00:13:14,961 --> 00:13:17,051
+who want more than mediocrity?
+
+212
+00:13:17,361 --> 00:13:20,411
+[George] I think it starts with
+wanting more than mediocrity.
+
+213
+00:13:21,511 --> 00:13:26,211
+That's actually a rare skill set because
+most people, and it's not a bad thing,
+
+214
+00:13:26,231 --> 00:13:30,561
+but a lot of people really don't
+want to complicate the deal.
+
+215
+00:13:30,871 --> 00:13:32,831
+I want to show up. I want to do my job.
+
+216
+00:13:32,851 --> 00:13:35,631
+I want to go home to my
+family. I want to watch TV.
+
+217
+00:13:35,651 --> 00:13:40,671
+I want to go fishing on Saturday. And
+that is a beautiful thing, but it doesn't
+
+218
+00:13:40,691 --> 00:13:44,221
+translate well to the environment of.
+
+219
+00:13:44,585 --> 00:13:48,485
+Business law, especially when you get
+into complex business deals, complex
+
+220
+00:13:48,505 --> 00:13:52,835
+business litigation, complex real
+estate development projects.
+
+221
+00:13:52,984 --> 00:13:57,924
+The stakes are just higher. So I think
+it starts with wanting more and not
+
+222
+00:13:57,944 --> 00:14:00,084
+wanting to be because
+you can't train that.
+
+223
+00:14:00,104 --> 00:14:01,874
+You either got it or you don't.
+
+224
+00:14:02,088 --> 00:14:07,268
+[Jordan] And just to jump in, wanting
+more doesn't mean having no life balance.
+
+225
+00:14:07,288 --> 00:14:08,148
+[George] No, absolutely.
+
+226
+00:14:08,168 --> 00:14:10,498
+[Jordan] You and I are both
+very involved parents.
+
+227
+00:14:11,848 --> 00:14:16,229
+And I think actually that creates more
+drive for me, knowing that I want to be
+
+228
+00:14:16,249 --> 00:14:19,652
+able to. Go home on the weekends, spend
+time with my kids, really be invested
+
+229
+00:14:19,672 --> 00:14:22,452
+there. And so, I don't want to mail it
+in during the week so that I create all
+
+230
+00:14:22,472 --> 00:14:23,332
+these processes.
+
+231
+00:14:23,352 --> 00:14:26,772
+[George] That's what we always talk about:
+the problem is that most lawyers show up and
+
+232
+00:14:26,792 --> 00:14:31,012
+they don't get anything that talk at
+the coffee pot and then walk around and
+
+233
+00:14:31,032 --> 00:14:33,812
+then go play around on LinkedIn for a
+couple of hours and they don't get to work
+
+234
+00:14:33,832 --> 00:14:37,492
+till one o'clock in the afternoon. And
+then they're procrastinating, they don't
+
+235
+00:14:37,512 --> 00:14:39,826
+have any systems or processes, and so.
+
+236
+00:14:39,846 --> 00:14:42,546
+They're trying to reinvent everything
+from scratch, and everything's hair on
+
+237
+00:14:42,566 --> 00:14:45,576
+fire. And they wind up working till nine
+o'clock at night, and they wonder why
+
+238
+00:14:45,846 --> 00:14:50,066
+they wake up at 48 years old, they're
+in terrible health, their wife has left
+
+239
+00:14:50,086 --> 00:14:53,026
+them, their kids have no relationship with
+them, and they don't have any hobbies
+
+240
+00:14:53,046 --> 00:14:58,016
+or friends. That's a terrible way
+to live versus what we see here.
+
+241
+00:14:58,406 --> 00:15:03,640
+People come in early. They are sprinting
+all day long to get after it and
+
+242
+00:15:03,660 --> 00:15:07,240
+they're having fun, working hard, and
+then they go home to be with their
+
+243
+00:15:07,260 --> 00:15:10,440
+families. But I think it's
+that level of efficiency.
+
+244
+00:15:10,460 --> 00:15:13,880
+And you said, what can they do? The
+other thing about tiny habits, how you do
+
+245
+00:15:13,900 --> 00:15:17,270
+anything is how you do
+everything, processes in place.
+
+246
+00:15:17,580 --> 00:15:23,400
+So much of law firms are designed
+around individual partners or worse,
+
+247
+00:15:23,420 --> 00:15:27,752
+divas, idiosyncrasies and the
+way they like to do things.
+
+248
+00:15:27,772 --> 00:15:32,072
+And you see this especially one of the
+worst things is when you're negotiating a
+
+249
+00:15:32,092 --> 00:15:36,552
+transaction and indemnification,
+mutual indemnification is mutual
+
+250
+00:15:36,572 --> 00:15:39,222
+indemnification. Everybody
+knows what that means.
+
+251
+00:15:39,532 --> 00:15:45,432
+But lawyers will just burn thousands
+of dollars over whose little
+
+252
+00:15:45,452 --> 00:15:51,048
+claws and Which version of that
+actually gets put in the definitive
+
+253
+00:15:51,068 --> 00:15:56,558
+agreement? And that serves nobody, not
+least the client, but least of all the
+
+254
+00:15:56,578 --> 00:15:59,037
+lawyer, because then you can't go spend
+time with your family because you're
+
+255
+00:15:59,057 --> 00:16:02,317
+arguing over something stupid that's only
+going to up cost and make your client
+
+256
+00:16:02,337 --> 00:16:04,558
+hate you. So why would you do that?
+
+257
+00:16:04,578 --> 00:16:08,067
+[Jordan] Yeah. So I think what I hear
+you saying is it's not just about
+
+258
+00:16:09,126 --> 00:16:12,226
+Doing little things well, but it's
+about doing the right things.
+
+259
+00:16:12,246 --> 00:16:12,746
+[George] Yes.
+
+260
+00:16:12,726 --> 00:16:13,226
+[Jordan] Yeah.
+
+261
+00:16:13,046 --> 00:16:14,046
+[George] Now, it's
+
+262
+00:16:15,206 --> 00:16:18,946
+one of my bosses used to say everybody
+worries about doing things right instead
+
+263
+00:16:18,966 --> 00:16:23,746
+of doing the right things. And you can
+have the most beautifully organized,
+
+264
+00:16:23,766 --> 00:16:29,726
+color-coded, and tabbed notebook ready
+for your next client meeting with all
+
+265
+00:16:29,746 --> 00:16:32,477
+of the right things,
+but it doesn't matter.
+
+266
+00:16:32,640 --> 00:16:38,610
+They're not paying you for that. And I
+think listening well is another skill set
+
+267
+00:16:39,040 --> 00:16:40,040
+of
+
+268
+00:16:40,481 --> 00:16:42,691
+doing better than just
+government work because
+
+269
+00:16:44,800 --> 00:16:49,050
+listening is active, listening, really
+paying attention is really hard.
+
+270
+00:16:49,520 --> 00:16:52,651
+Like you can hear what someone says, but.
+
+271
+00:16:52,864 --> 00:16:57,084
+did you actually pick up on all the
+nuance and ask the probing questions to
+
+272
+00:16:57,104 --> 00:16:59,644
+figure out what is it
+that the client needs?
+
+273
+00:16:59,664 --> 00:17:03,804
+And have you built understanding? I
+mean, the word communication comes from
+
+274
+00:17:03,824 --> 00:17:09,193
+communion, which is oneness and
+aligning your mind with someone else's.
+
+275
+00:17:09,213 --> 00:17:12,472
+That's actual communication. Everything
+else is just talking at somebody.
+
+276
+00:17:12,492 --> 00:17:16,472
+[Jordan] Well, and as the resident nerd in
+the basement, you know, I can really identify
+
+277
+00:17:16,492 --> 00:17:22,163
+with lawyers who they didn't select into
+this profession because they were good
+
+278
+00:17:22,183 --> 00:17:26,243
+at talking to people. They selected into
+this profession because, you know, they
+
+279
+00:17:26,263 --> 00:17:28,593
+were valedictorian and
+they were really good at.
+
+280
+00:17:28,866 --> 00:17:32,143
+Reading stuff and getting good
+grades and analyzing problems.
+
+281
+00:17:32,163 --> 00:17:34,703
+And so I get that. That's something
+that I've struggled with too.
+
+282
+00:17:34,723 --> 00:17:38,943
+And I've had to work on that. So I think
+that's a problem for a lot of lawyers.
+
+283
+00:17:38,963 --> 00:17:40,423
+[George] Yeah. Well, I
+think it's not just lawyers.
+
+284
+00:17:40,443 --> 00:17:44,743
+I mean, it's, I think most professions,
+even businesses, struggle with this:
+
+285
+00:17:44,763 --> 00:17:48,812
+that getting good grades does
+not give you success in life.
+
+286
+00:17:49,037 --> 00:17:52,300
+And that's a hard thing to swallow
+because you're reinforced all the time
+
+287
+00:17:52,320 --> 00:17:55,340
+growing up. Okay, get good grades, get
+good grades, do well in school, get a
+
+288
+00:17:55,360 --> 00:17:59,660
+scholarship, all that. And you see people
+with amazing accolades and phenomenal
+
+289
+00:17:59,680 --> 00:18:04,780
+academic achievements, and they flame
+out in the real world and can't really
+
+290
+00:18:04,800 --> 00:18:06,780
+figure out why this
+isn't working for them.
+
+291
+00:18:06,800 --> 00:18:08,569
+But they weren't trained that way.
+
+292
+00:18:11,400 --> 00:18:13,860
+[Jordan] And guess what's going
+to make this so much easier?
+
+293
+00:18:13,880 --> 00:18:14,880
+AI.
+
+294
+00:18:15,880 --> 00:18:19,859
+I don't want to end before we address the
+AI slopocalypse a bit, because I think
+
+295
+00:18:19,879 --> 00:18:23,300
+this is very salient to the
+discussion of mediocrity.
+
+296
+00:18:23,320 --> 00:18:28,979
+So what worries you about AI and perhaps
+over-reliance on AI when it comes to
+
+297
+00:18:28,999 --> 00:18:30,290
+mediocrity?
+
+298
+00:18:31,465 --> 00:18:34,794
+[George] This is probably
+a five-episode series, but
+
+299
+00:18:37,144 --> 00:18:38,754
+number one,
+
+300
+00:18:41,303 --> 00:18:45,731
+there's a doom loop you can get in, where,
+as how you do anything is how you do
+
+301
+00:18:45,751 --> 00:18:50,324
+everything. If your approach is to do
+the bare minimum and take the most
+
+302
+00:18:50,344 --> 00:18:52,914
+convenient path of least resistance.
+
+303
+00:18:54,709 --> 00:18:59,256
+You will be lulled into complacency
+and just chatting with the chat bot and
+
+304
+00:18:59,276 --> 00:19:05,336
+thinking that you're doing work. That
+CLE I gave a couple of weeks ago on
+
+305
+00:19:05,356 --> 00:19:09,576
+the difference between AI is
+not deterministic software.
+
+306
+00:19:09,596 --> 00:19:13,416
+And we'll do an episode on this later,
+but it's a slot machine, it works on
+
+307
+00:19:13,436 --> 00:19:16,086
+probabilities, not true-false outcomes.
+
+308
+00:19:16,341 --> 00:19:19,231
+So most people haven't
+taken the time to learn AI
+
+309
+00:19:20,261 --> 00:19:23,918
+and they're just going with the flow,
+but they don't understand how it works.
+
+310
+00:19:24,308 --> 00:19:28,404
+So I think that's one thing: making sure
+you understand what AI is good at and
+
+311
+00:19:28,424 --> 00:19:32,564
+what it is not good at. Play with
+the tools and try to teach yourself.
+
+312
+00:19:32,584 --> 00:19:37,124
+Do the extra education. Watch, I mean,
+there's a gajillion videos on YouTube and
+
+313
+00:19:37,144 --> 00:19:42,250
+X. Microsoft Copilot has a whole training
+curriculum you can take if your firm
+
+314
+00:19:42,270 --> 00:19:46,890
+or your company offers it. But learning
+what it does and what it doesn't do.
+
+315
+00:19:46,910 --> 00:19:52,088
+I mean, you wouldn't give some kid who's
+never seen a chainsaw in his life a
+
+316
+00:19:52,108 --> 00:19:54,088
+chainsaw and say, hey, go play with this.
+
+317
+00:19:54,108 --> 00:19:59,398
+I mean, it is a powerful tool, no
+more so than a car or a firearm.
+
+318
+00:19:59,574 --> 00:20:02,384
+Or fire for that matter, or a power tool.
+
+319
+00:20:02,613 --> 00:20:06,034
+You've got to pay attention and
+teach yourself how to use it.
+
+320
+00:20:06,054 --> 00:20:10,913
+I think that's number one. And then number
+two is not doing the easy thing and
+
+321
+00:20:10,933 --> 00:20:15,713
+outsourcing your judgment. You
+talk about this all the time.
+
+322
+00:20:15,733 --> 00:20:16,733
+And
+
+323
+00:20:17,334 --> 00:20:19,143
+I worry that
+
+324
+00:20:20,104 --> 00:20:26,014
+the current generation may lose an
+opportunity to develop good judgment because
+
+325
+00:20:26,034 --> 00:20:31,694
+there's so much temptation to offload it
+onto the slot machine and gamble away
+
+326
+00:20:31,714 --> 00:20:36,124
+to see if you get it right from
+some probabilistic set of words.
+
+327
+00:20:36,674 --> 00:20:41,454
+[Jordan] Absolutely. The thing that worries
+me, and like you said, I think this could be
+
+328
+00:20:41,474 --> 00:20:45,084
+a whole other episode in and
+of itself, if not five, is.
+
+329
+00:20:45,319 --> 00:20:48,819
+Over-reliance and the feedback loop that
+that's going to create, not just for
+
+330
+00:20:48,839 --> 00:20:53,619
+individuals, but for our profession and
+not to get too grandiose, but really all
+
+331
+00:20:53,639 --> 00:20:58,659
+of humanity. Because if you think about
+it, if we all begin to over-rely on AI
+
+332
+00:20:58,679 --> 00:21:01,649
+outputs, what becomes the new bar?
+
+333
+00:21:02,599 --> 00:21:04,099
+What even becomes the source of truth?
+
+334
+00:21:04,119 --> 00:21:08,146
+And that's beyond the scope of an
+episode about mediocrity. But it
+
+335
+00:21:08,166 --> 00:21:12,946
+worries me a lot. And so I think you make
+a lot of good points about be aware,
+
+336
+00:21:12,966 --> 00:21:16,298
+right? Understand when you
+might be outsourcing judgment.
+
+337
+00:21:16,318 --> 00:21:22,298
+AI is a very powerful tool. I'm chronically
+terminally online, as the kids say,
+
+338
+00:21:22,318 --> 00:21:28,208
+and chronically in AI tools. So I'm
+definitely not a Luddite or naysayer, but
+
+339
+00:21:28,878 --> 00:21:31,128
+I think we have to exercise a lot of.
+
+340
+00:21:31,463 --> 00:21:33,603
+Prudence and caution when using them.
+
+341
+00:21:33,623 --> 00:21:36,243
+[George] Yeah. No, and that's
+just formation and virtue.
+
+342
+00:21:36,263 --> 00:21:41,473
+I mean, and it all comes back to
+first principles, like you always say.
+
+343
+00:21:42,103 --> 00:21:47,553
+And having prudence, justice,
+fortitude, and temperance,
+
+344
+00:21:48,503 --> 00:21:51,233
+knowing how to exercise that judgment.
+
+345
+00:21:51,703 --> 00:21:54,403
+But, you know, at the end of the day,
+good judgment only comes from bad
+
+346
+00:21:54,423 --> 00:21:57,873
+judgment. And experience
+is really expensive.
+
+347
+00:21:59,303 --> 00:22:03,834
+So I don't know. What do you think?
+
+348
+00:22:03,854 --> 00:22:07,943
+How does the client tell when
+they're getting mediocre work?
+
+349
+00:22:08,493 --> 00:22:11,993
+How does the client know when they're
+just getting mediocrity and somebody's
+
+350
+00:22:12,013 --> 00:22:15,673
+mailing it in? Because it's so hard for
+a client to understand, am I getting
+
+351
+00:22:15,693 --> 00:22:19,424
+value for my money? Is this actually
+moving the needle on the objective I'm
+
+352
+00:22:19,444 --> 00:22:20,733
+trying to accomplish?
+
+353
+00:22:21,363 --> 00:22:24,943
+[Jordan] That's a great question
+because you mentioned this earlier.
+
+354
+00:22:24,963 --> 00:22:28,624
+Clients are trying to outsource a problem,
+and so their pulse is not on all of
+
+355
+00:22:28,644 --> 00:22:32,863
+the details. And so, going back to my
+example of putting the wrong division on a
+
+356
+00:22:32,883 --> 00:22:35,760
+pleading, no sane client
+is ever going to see that.
+
+357
+00:22:35,780 --> 00:22:41,345
+Right. So, barring some sort of major
+problem arising, I think it's very hard
+
+358
+00:22:41,365 --> 00:22:47,345
+for clients to tell. But for prospective
+clients of law firms, I would
+
+359
+00:22:47,365 --> 00:22:51,104
+encourage you to look at how your
+lawyer is communicating with you.
+
+360
+00:22:51,124 --> 00:22:56,255
+So, if your lawyer is, for instance,
+sending you a wall of text email
+
+361
+00:22:57,044 --> 00:23:03,145
+with, you know, completely irrelevant
+information, just verbal vomit, as we
+
+362
+00:23:03,165 --> 00:23:07,304
+often call it. That would
+be a red flag for me.
+
+363
+00:23:07,324 --> 00:23:12,104
+If they are spotting a bunch of issues,
+but not actually advising you on what to
+
+364
+00:23:12,124 --> 00:23:16,345
+do, giving you actionable advice, not
+leading with the advice, then that would
+
+365
+00:23:16,365 --> 00:23:17,494
+be a red flag.
+
+366
+00:23:18,285 --> 00:23:21,784
+[George] What about the lawyers who always
+say, Well, it depends, or this is what the law
+
+367
+00:23:21,804 --> 00:23:24,434
+says? And then they don't give
+you any options of what to do.
+
+368
+00:23:24,454 --> 00:23:26,064
+How do you deal with that?
+
+369
+00:23:26,375 --> 00:23:31,634
+[Jordan] Oh, man. So many
+thoughts. So, of course, it
+
+370
+00:23:31,654 --> 00:23:36,411
+depends. This is the
+law, right? So I think
+
+371
+00:23:37,402 --> 00:23:38,981
+that's sort of table stakes, right?
+
+372
+00:23:39,001 --> 00:23:41,381
+Being able to identify that it depends.
+
+373
+00:23:41,401 --> 00:23:45,971
+Because if it doesn't depend, then the
+client really should be on legal Zoom or.
+
+374
+00:23:46,122 --> 00:23:48,692
+ChatGPT or Claude getting their answer.
+
+375
+00:23:49,402 --> 00:23:53,142
+If I were a client and all I got was it
+depends, then I would fire that lawyer
+
+376
+00:23:53,162 --> 00:23:58,476
+on the spot. But if it depends,
+well, okay, what does it depend on?
+
+377
+00:23:58,705 --> 00:24:04,599
+What are the material facts that would
+turn this analysis one way or the other?
+
+378
+00:24:05,896 --> 00:24:09,476
+[Jordan] Well, before we wrap, George,
+can you think of any parting thoughts on a
+
+379
+00:24:09,496 --> 00:24:10,946
+mediocrity?
+
+380
+00:24:11,256 --> 00:24:12,256
+[George] Don't
+
+381
+00:24:13,236 --> 00:24:16,271
+do it. I mean, I think. It's
+
+382
+00:24:17,781 --> 00:24:23,799
+I've never met anybody who wanted
+to have the eulogy at their funeral
+
+383
+00:24:23,819 --> 00:24:27,670
+say he was awesome at being mediocre.
+
+384
+00:24:27,900 --> 00:24:33,269
+And life is short. None of us
+knows the day or the hour.
+
+385
+00:24:33,580 --> 00:24:34,580
+But
+
+386
+00:24:35,339 --> 00:24:40,755
+for I think the culture that we have
+here really focuses on I guess the kids
+
+387
+00:24:40,775 --> 00:24:43,888
+would call it life maxing.
+But get everything you can.
+
+388
+00:24:43,908 --> 00:24:46,208
+Be the best lawyer you can.
+Be the best parent you can.
+
+389
+00:24:46,228 --> 00:24:51,167
+Be the best spouse you can. Be the best
+neighbor and community citizen you can.
+
+390
+00:24:51,187 --> 00:24:55,581
+And I think that's what we're called to
+do and what we were put on earth to do.
+
+391
+00:24:55,601 --> 00:24:59,051
+So anything short of that
+is a missed opportunity.
+
+392
+00:24:59,281 --> 00:25:03,291
+[Jordan] The only thing I'd add on
+top of that is it brings great joy.
+
+393
+00:25:03,636 --> 00:25:06,496
+To strive to be better than mediocre.
+
+394
+00:25:06,516 --> 00:25:07,516
+[George] Oh, yeah.
+
+395
+00:25:07,636 --> 00:25:12,962
+[Jordan] I know that if I wake up and it
+sounds cheesy, but if I really try to do
+
+396
+00:25:12,982 --> 00:25:17,363
+everything the best that I possibly can,
+I'm really satisfied at the end of the
+
+397
+00:25:17,383 --> 00:25:22,816
+day. So this isn't just about
+business outcomes or how we
+
+398
+00:25:22,836 --> 00:25:26,286
+should operate as a professional, but
+I think it just brings great joy too.
+
+399
+00:25:26,856 --> 00:25:27,636
+[George] Absolutely.
+
+400
+00:25:27,656 --> 00:25:30,146
+[Jordan] So get out there
+and don't be mediocre.
+
+401
+00:25:30,296 --> 00:25:31,440
+Get after it.
+
+402
+00:25:31,460 --> 00:25:42,860
+♪ Outro music ♪

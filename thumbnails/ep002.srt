@@ -1,0 +1,1743 @@
+1
+00:00:00,300 --> 00:00:04,680
+[George] Just because the tools change
+doesn't make you a native something.
+
+2
+00:00:04,700 --> 00:00:11,800
+I mean, it's not like you were spawned by Claude
+into existence to suddenly provide legal services.
+
+3
+00:00:15,500 --> 00:00:18,120
+♪ Objection, your honor ♪
+
+4
+00:00:18,140 --> 00:00:19,720
+♪ One quick thing ♪
+
+5
+00:00:19,740 --> 00:00:21,160
+♪ That meeting about the meeting ♪
+
+6
+00:00:21,180 --> 00:00:22,980
+♪ Just billed me for the meeting ♪
+
+7
+00:00:23,430 --> 00:00:25,410
+[Announcer] This is ANTIFIRM.
+
+8
+00:00:25,430 --> 00:00:30,210
+A podcast about business, law,
+and other things that sound boring
+
+9
+00:00:30,230 --> 00:00:32,180
+until they're your problem.
+
+10
+00:00:35,090 --> 00:00:39,980
+[Jordan] Hey George. I've
+got an announcement.
+
+11
+00:00:40,000 --> 00:00:45,254
+So this is pretty exciting. As of about
+five minutes ago, Campbell Teague is an AI
+
+12
+00:00:45,274 --> 00:00:46,300
+native firm.
+
+13
+00:00:46,510 --> 00:00:51,360
+[George] Really? Well, what changed?
+
+14
+00:00:51,380 --> 00:00:54,492
+[Jordan] I don't know. Everyone else says
+they're AI native, so I thought it might be good
+
+15
+00:00:54,512 --> 00:00:55,512
+for us to be too.
+
+16
+00:00:55,820 --> 00:01:00,850
+[George] Yeah, that's silly.
+
+17
+00:01:00,870 --> 00:01:02,300
+[Jordan] Yeah, so what's with this trend?
+
+18
+00:01:04,440 --> 00:01:09,410
+[George] It's hilarious. It's like saying
+you were a pencil-native firm in the 1930s.
+
+19
+00:01:09,430 --> 00:01:11,937
+I mean, of course you're using AI.
+
+20
+00:01:11,957 --> 00:01:16,721
+Just because the tools change
+doesn't make you a native something.
+
+21
+00:01:16,741 --> 00:01:23,212
+I mean, it's not like you were
+spawned by Claude into existence to
+
+22
+00:01:23,232 --> 00:01:27,080
+suddenly provide legal services.
+
+23
+00:01:27,100 --> 00:01:33,140
+[Jordan] Yeah. And it seems to me like "AI
+native" is typically just a signal for "we bought
+
+24
+00:01:33,160 --> 00:01:37,280
+a ChatGPT subscription and
+added our associates to it."
+
+25
+00:01:37,300 --> 00:01:41,480
+[Jordan] And a lot of firms aren't even
+really thinking about how to use AI.
+
+26
+00:01:41,500 --> 00:01:45,442
+They're just finding the most expensive
+possible subscriptions they can and throwing
+
+27
+00:01:45,462 --> 00:01:47,110
+money at them as a CYA exercise.
+
+28
+00:01:47,130 --> 00:01:49,970
+[Jordan] The same reason that
+Fortune 500 companies go to Big Law.
+
+29
+00:01:49,990 --> 00:01:53,645
+No shade on Big Law, you know,
+there's a lot of good lawyers there,
+
+30
+00:01:53,665 --> 00:01:56,880
+but also nobody got fired for
+hiring Cravath or whatever.
+
+31
+00:01:56,900 --> 00:01:58,890
+[George] No, but this is a
+whole separate podcast episode.
+
+32
+00:01:58,910 --> 00:02:03,371
+My dad was general counsel of
+a publicly traded company.
+
+33
+00:02:03,391 --> 00:02:06,829
+We've represented a
+lot of large companies.
+
+34
+00:02:06,849 --> 00:02:11,637
+If I'm on the board, I think there is
+another trend that we're going to see out of
+
+35
+00:02:11,657 --> 00:02:17,751
+AI native and all this stuff: a day is
+coming in which the general counsel will no
+
+36
+00:02:17,771 --> 00:02:23,973
+longer be able to justify himself by
+simply saying, "I hired the biggest firm I
+
+37
+00:02:23,993 --> 00:02:25,850
+could find."
+
+38
+00:02:25,870 --> 00:02:30,540
+[Jordan] And why do you
+predict that day is coming?
+
+39
+00:02:30,560 --> 00:02:34,198
+[George] Well, first of all,
+it's never been a good excuse.
+
+40
+00:02:34,218 --> 00:02:39,880
+And I think there was enough cover, and
+there's obviously corporate culture that
+
+41
+00:02:39,900 --> 00:02:42,498
+wants to cover entrenched management.
+
+42
+00:02:42,518 --> 00:02:47,717
+Again, this is a whole separate podcast,
+but with the advent of AI and the
+
+43
+00:02:47,737 --> 00:02:53,690
+ability... I often like to think of
+it as, it's really like a prosthesis
+
+44
+00:02:53,710 --> 00:03:00,034
+for knowledge work. In many ways,
+we think of automobiles as separate
+
+45
+00:03:00,054 --> 00:03:04,998
+machines, but they've evolved into
+being a human prosthesis for mobility.
+
+46
+00:03:05,018 --> 00:03:10,699
+AI is a tool. It amplifies and allows smaller
+groups of people to do more with less.
+
+47
+00:03:10,719 --> 00:03:17,077
+So I think you're going to see...
+I had a conversation this week
+
+48
+00:03:17,097 --> 00:03:23,527
+with a plaintiff's firm, and he's using
+another platform on the plaintiff's
+
+49
+00:03:23,547 --> 00:03:27,370
+side that has been gaining some
+popularity now with venture funding.
+
+50
+00:03:27,390 --> 00:03:33,504
+And it's allowing him, as a solo with two
+paralegals, to do stuff that heretofore
+
+51
+00:03:33,524 --> 00:03:39,488
+was impossible. And I think Big Law, and
+the whole idea of "we're just going to
+
+52
+00:03:39,508 --> 00:03:45,847
+throw as much paper and people as possible"
+as a defense tactic, is not as effective
+
+53
+00:03:45,867 --> 00:03:49,964
+anymore. So for many of those reasons,
+like I said, I think it could be a whole
+
+54
+00:03:49,984 --> 00:03:53,263
+separate podcast, but this whole
+idea of "I just hired the biggest,
+
+55
+00:03:53,283 --> 00:03:55,640
+most expensive firm I
+could find" is going away.
+
+56
+00:03:55,660 --> 00:04:01,496
+You'll still have, for reasons
+of ego and credential virtue
+
+57
+00:04:01,516 --> 00:04:04,039
+signaling, firms that want to say...
+
+58
+00:04:04,059 --> 00:04:08,050
+It's kind of like, I talk to investors
+sometimes, and they say, "Well,
+
+59
+00:04:08,070 --> 00:04:12,852
+I'm an LP at Carlyle." So you pay an enormous
+load fee, a ridiculous management fee,
+
+60
+00:04:12,872 --> 00:04:17,873
+and get mediocre returns just to be able
+to say, "I've got this gold standard
+
+61
+00:04:17,893 --> 00:04:23,260
+investor. I'm a part of this
+investment." That makes
+
+62
+00:04:23,280 --> 00:04:29,294
+absolutely no sense. It's like,
+firm or no firm, results matter.
+
+63
+00:04:29,314 --> 00:04:31,820
+People want to pay for results.
+
+64
+00:04:31,840 --> 00:04:36,654
+They're trying to hire the biggest firm
+they can find and feed their ego and say,
+
+65
+00:04:36,674 --> 00:04:40,069
+"Well, I'm represented by the AmLaw
+number two firm in the world." Well,
+
+66
+00:04:40,089 --> 00:04:41,910
+that's great, but how
+do your results look?
+
+67
+00:04:41,930 --> 00:04:46,016
+[Jordan] Well, yeah, everyone loves a little
+good old-fashioned prestige maxing every now and
+
+68
+00:04:46,036 --> 00:04:46,436
+then.
+
+69
+00:04:46,400 --> 00:04:48,941
+[George] Yeah, exactly. That's
+the term I was looking for.
+
+70
+00:04:48,961 --> 00:04:52,680
+They're just out here prestige maxing,
+credential signaling, and losing.
+
+71
+00:04:52,700 --> 00:04:57,836
+[Jordan] Well, and so speaking of signaling,
+I think, kind of bringing it full circle,
+
+72
+00:04:57,856 --> 00:05:00,480
+"AI native," that's all that is, right?
+
+73
+00:05:00,500 --> 00:05:06,783
+But you brought up an interesting concept,
+which is when machines almost become
+
+74
+00:05:06,803 --> 00:05:12,794
+prosthetic extensions of humanity. So maybe
+a better way to think of this is not AI
+
+75
+00:05:12,814 --> 00:05:14,560
+native, but AI augmented.
+
+76
+00:05:14,580 --> 00:05:16,180
+[George] Yeah, AI enabled.
+
+77
+00:05:16,200 --> 00:05:22,220
+[Jordan] And so what do you think? What are the
+minimum viable facts for a lawyer to be able
+
+78
+00:05:22,240 --> 00:05:24,960
+to claim that they are AI augmented?
+
+79
+00:05:24,980 --> 00:05:27,832
+[George] Well, just jumping back to first
+principles, one of the reasons that's so hilarious
+
+80
+00:05:27,852 --> 00:05:30,191
+is because everything they've been
+using for the last, at a minimum,
+
+81
+00:05:30,211 --> 00:05:34,399
+four years is AI enabled. They just
+didn't know that that was the underlying
+
+82
+00:05:34,419 --> 00:05:35,180
+technology.
+
+83
+00:05:35,200 --> 00:05:36,680
+[Jordan] I mean, really, like eight years.
+
+84
+00:05:36,700 --> 00:05:42,277
+[George] Yeah. Gmail. If you have a Gmail account,
+you've been AI enabled for the last decade
+
+85
+00:05:42,297 --> 00:05:47,387
+or more. And Google is one of the pioneers
+in inventing these large language models,
+
+86
+00:05:47,407 --> 00:05:52,070
+which were originally designed
+to translate languages.
+
+87
+00:05:52,090 --> 00:05:58,108
+So I think it's probably kind
+of like the Wojak, normie, Jedi
+
+88
+00:05:58,128 --> 00:06:04,341
+bell curve that you see in the
+famous internet memes, where the
+
+89
+00:06:04,361 --> 00:06:10,574
+vast majority of people in the
+middle are going to think, "This
+
+90
+00:06:10,594 --> 00:06:14,260
+is so cool." But the really dumb folks
+and the really smart folks are like,
+
+91
+00:06:14,280 --> 00:06:16,315
+"No, you've just always been AI enabled.
+
+92
+00:06:16,335 --> 00:06:19,074
+You're just using the current
+thing." It's the same.
+
+93
+00:06:19,094 --> 00:06:23,914
+There's always going to be marketing and
+snake oil salesmen and virtue signaling and
+
+94
+00:06:23,934 --> 00:06:28,696
+everyone who wants to say, you know, prestige
+maxing, "We're AI enabled now." Well,
+
+95
+00:06:28,716 --> 00:06:33,365
+congratulations. You just paid for a bunch
+of stuff you clearly don't understand,
+
+96
+00:06:33,385 --> 00:06:37,180
+because if you did, you wouldn't
+even say that in the first place.
+
+97
+00:06:37,200 --> 00:06:41,900
+[Jordan] And I think the thing that drives me
+the most crazy is not only have we all been AI
+
+98
+00:06:41,920 --> 00:06:47,610
+enabled this whole time, but the things
+that we're now calling AI are actually just
+
+99
+00:06:47,630 --> 00:06:53,394
+deterministic workflows that we could
+have been building for at least the past
+
+100
+00:06:53,414 --> 00:06:56,980
+decade. Or you just needed
+to know what Zapier was.
+
+101
+00:06:57,000 --> 00:07:01,466
+That's true too. You know, there have always
+been no-code tools to make these things
+
+102
+00:07:01,486 --> 00:07:04,580
+possible, and we've always
+experimented with these things.
+
+103
+00:07:04,600 --> 00:07:05,000
+[George] Yeah, we've had
+those for a long time.
+
+104
+00:07:04,770 --> 00:07:10,730
+So just for our listeners, for those of
+you who don't know what Zapier is...
+
+105
+00:07:10,750 --> 00:07:11,150
+[Jordan] Or deterministic.
+
+106
+00:07:10,860 --> 00:07:15,772
+[George] Yeah, or deterministic. It's basic
+logic, and it's how computers have always worked,
+
+107
+00:07:15,792 --> 00:07:19,492
+with zeros and ones. But then if you
+have true/false, you can go "if this,
+
+108
+00:07:19,512 --> 00:07:22,576
+then that." And so if something's
+true here, then that happens.
+
+109
+00:07:22,596 --> 00:07:24,980
+Or if something is false
+here, then this happens.
+
+110
+00:07:25,000 --> 00:07:28,318
+How would you have built
+a deterministic workflow?
+
+111
+00:07:28,338 --> 00:07:33,880
+How would you run zaps to connect things
+before everything got magically AI enabled?
+
+112
+00:07:33,900 --> 00:07:40,019
+[Jordan] Yeah, so I'm trying to think of an
+example, but if you've got something that
+
+113
+00:07:40,039 --> 00:07:44,390
+you're doing over here in one platform
+and you want a result in another platform,
+
+114
+00:07:44,410 --> 00:07:48,015
+then you would create what's called
+a zap to connect those via API.
+
+115
+00:07:48,035 --> 00:07:52,334
+So, I don't know, take DocuSign as a simple
+example, because everyone's familiar
+
+116
+00:07:52,354 --> 00:07:56,485
+with that. DocuSign has
+always been Zapier enabled.
+
+117
+00:07:56,505 --> 00:08:02,658
+So you could think of maybe an approval
+workflow where you do a draft,
+
+118
+00:08:02,678 --> 00:08:07,770
+somebody gives it a thumbs up in Teams,
+and then you want that to automatically go
+
+119
+00:08:07,790 --> 00:08:11,456
+out to DocuSign to the parties.
+That would be an easy example.
+
+120
+00:08:11,476 --> 00:08:15,493
+Well, now you can use Claude or
+Copilot or Microsoft Power Automate,
+
+121
+00:08:15,513 --> 00:08:17,775
+those kinds of things, to build these.
+
+122
+00:08:17,795 --> 00:08:21,674
+But it's not because it's this
+novel technological innovation.
+
+123
+00:08:21,694 --> 00:08:25,076
+It's just now easier for
+the average person to do.
+
+124
+00:08:25,096 --> 00:08:27,878
+Well, it's also easier for a coder to do.
+
+125
+00:08:27,898 --> 00:08:33,154
+I've always been code slinging, ever since
+I was 10 years old, but it's a heck of a
+
+126
+00:08:33,174 --> 00:08:37,142
+lot easier for me to just go in the chat
+and say, "Please build this," right?
+
+127
+00:08:37,162 --> 00:08:38,880
+So it makes it faster for me too.
+
+128
+00:08:38,900 --> 00:08:41,132
+[George] Yeah. I mean,
+translate that into law.
+
+129
+00:08:41,152 --> 00:08:46,400
+Most of the work associates have done here
+before is just give me the first draft,
+
+130
+00:08:46,420 --> 00:08:51,540
+or even the paralegals. And so then your
+senior partner can work a lot faster if
+
+131
+00:08:51,560 --> 00:08:55,792
+he's already got a draft motion
+for summary judgment on his plate.
+
+132
+00:08:55,812 --> 00:09:01,060
+The amount of time it takes for me to review
+that, if I'm not having to cite check
+
+133
+00:09:01,080 --> 00:09:05,594
+on the case law, and I'm not having to do
+the cite check on the record references,
+
+134
+00:09:05,614 --> 00:09:10,257
+I can knock that out in an hour. I mean,
+maybe less, depending on how complicated
+
+135
+00:09:10,277 --> 00:09:14,767
+the issues are. But it's that slow slog
+of building the record, and all the
+
+136
+00:09:14,787 --> 00:09:19,692
+hyperlinks back and forth between the record
+citations and the case law citations,
+
+137
+00:09:19,712 --> 00:09:22,421
+and the assembly line
+work that took so much.
+
+138
+00:09:22,441 --> 00:09:27,346
+And now you've got these fancy next-word
+predictors that can slam all that text in
+
+139
+00:09:27,366 --> 00:09:28,366
+for you.
+
+140
+00:09:28,410 --> 00:09:32,159
+[Jordan] Right. Exactly. But we're just
+calling all of this AI now, apparently.
+
+141
+00:09:32,179 --> 00:09:33,380
+So it drives me crazy.
+
+142
+00:09:33,400 --> 00:09:36,550
+[George] Yeah, well, I think it
+was... you saw the beginning of this.
+
+143
+00:09:36,570 --> 00:09:41,825
+It's kind of like when crypto first hit
+the scene and everybody had something to do
+
+144
+00:09:41,845 --> 00:09:47,144
+with crypto or tokens, or they were trying
+to just put that into their marketing.
+
+145
+00:09:47,164 --> 00:09:53,398
+And then I remember I was speaking
+at ETH Chicago four years
+
+146
+00:09:53,418 --> 00:09:59,704
+ago. It was right when AI was
+starting to really get some traction.
+
+147
+00:09:59,724 --> 00:10:04,695
+ChatGPT may or may not have even hit the
+scene, but everyone started putting AI on
+
+148
+00:10:04,715 --> 00:10:09,566
+their website. And the big joke was, well,
+if you need a 10% bump in your stock,
+
+149
+00:10:09,586 --> 00:10:13,475
+just put AI somewhere on your
+website and your stock will go up.
+
+150
+00:10:13,495 --> 00:10:15,640
+But they weren't changing anything.
+
+151
+00:10:15,660 --> 00:10:21,060
+The workflows were the same. And a lot of
+the bigger corporations have always had
+
+152
+00:10:21,080 --> 00:10:26,400
+these types of machine learning, at least
+since 2015, running in the background.
+
+153
+00:10:26,600 --> 00:10:32,442
+[Jordan] Well, so it's easy to put AI on a
+product name, or as a virtue signal: "We're AI
+
+154
+00:10:32,462 --> 00:10:35,482
+native." Why is real AI adoption so hard?
+
+155
+00:10:35,502 --> 00:10:39,680
+Well, first of all, what does
+real AI adoption look like?
+
+156
+00:10:39,700 --> 00:10:43,697
+[George] Yeah, you asked me
+that, and I dodged the question.
+
+157
+00:10:43,717 --> 00:10:49,480
+I think real AI adoption... and we
+even have to define what is AI, or
+
+158
+00:10:49,500 --> 00:10:54,179
+superintelligence. I think the
+government changed the name again.
+
+159
+00:10:54,199 --> 00:10:58,749
+What is that? We really don't
+have a clear definition of that.
+
+160
+00:10:58,769 --> 00:11:05,164
+But I think if you look at using that
+prosthesis, and if you were going to ask me my
+
+161
+00:11:05,184 --> 00:11:11,579
+personal opinion, I would say, all right,
+you've been doing a lot of deep dives into
+
+162
+00:11:11,599 --> 00:11:16,673
+Claude. I've been working with Grok
+as we've been testing these systems,
+
+163
+00:11:16,693 --> 00:11:22,432
+and working with Copilot as well. I think
+real AI adoption doesn't happen until you
+
+164
+00:11:22,452 --> 00:11:28,134
+have something like, if you've seen the
+Iron Man movie, Jarvis, where I've got a
+
+165
+00:11:28,154 --> 00:11:34,394
+Jarvis on in real time with me all the
+time, voice activated, like you would say
+
+166
+00:11:34,414 --> 00:11:40,344
+"Hey Siri" to your iPhone. You're just
+talking to it and having it run tasks
+
+167
+00:11:40,364 --> 00:11:43,745
+whenever you think
+about it. And no typing.
+
+168
+00:11:43,765 --> 00:11:50,187
+There's no one typing anything in, and I
+can just say, "Hey Jarvis, go research this
+
+169
+00:11:50,207 --> 00:11:55,214
+file," or "Hey Jarvis, listen to this
+meeting we're about to sit in on,
+
+170
+00:11:55,234 --> 00:12:00,994
+and then go ahead and do all the conflicts
+check and get an engagement letter set up
+
+171
+00:12:01,014 --> 00:12:05,036
+for the client to sign." That,
+I think, is real AI enabled.
+
+172
+00:12:05,056 --> 00:12:10,088
+And to use the prosthesis analogy,
+you're wearing it while you're working.
+
+173
+00:12:10,108 --> 00:12:15,342
+That's truly AI enabled. Everything
+else, just because you can get Copilot to
+
+174
+00:12:15,362 --> 00:12:18,710
+rewrite your email, does
+not make you AI enabled.
+
+175
+00:12:18,730 --> 00:12:23,798
+You're just using the current thing
+that's on whatever the basic platform is.
+
+176
+00:12:23,818 --> 00:12:28,094
+But I think we're going to get
+relatively quickly to a place where,
+
+177
+00:12:28,114 --> 00:12:32,920
+whether they're the Meta glasses from
+Facebook or the Plaud pendants that you wear,
+
+178
+00:12:32,940 --> 00:12:36,883
+or just the phones or the Apple
+Watch we already carry everywhere...
+
+179
+00:12:36,903 --> 00:12:40,388
+We all know they're spying on
+us anyway and listening to us.
+
+180
+00:12:40,408 --> 00:12:43,834
+Just look at your social media
+feed for the advertisements.
+
+181
+00:12:43,854 --> 00:12:50,045
+But that, I think, is the definition
+of AI native or AI enabled: you're
+
+182
+00:12:50,065 --> 00:12:53,480
+enabled when you're
+wearing the prosthesis.
+
+183
+00:12:53,500 --> 00:12:57,483
+[Jordan] And luckily for our profession,
+lawyers are super tech-forward and will have a
+
+184
+00:12:57,503 --> 00:12:59,250
+really easy time getting
+on board with this.
+
+185
+00:12:59,270 --> 00:13:05,561
+[George] It's funny you say that, because
+I've seen so much speculation from some
+
+186
+00:13:05,581 --> 00:13:10,811
+of the hustle bros on X talking
+about, "We're in this little bubble.
+
+187
+00:13:10,831 --> 00:13:16,746
+Nobody's using AI. There's still thousands
+of boomers out there running their
+
+188
+00:13:16,766 --> 00:13:22,453
+plumbing business on paper." In my
+experience, and I could be in a bubble,
+
+189
+00:13:22,473 --> 00:13:28,760
+but in my experience in a relatively heavy
+manufacturing part of the world down here
+
+190
+00:13:28,780 --> 00:13:34,529
+in the I-85 corridor, there's a lot of
+Ray-Rays, Nuck-Nucks and Bubbas who highly
+
+191
+00:13:34,549 --> 00:13:40,439
+educated people would look on with disdain,
+but they're real smart and they've been
+
+192
+00:13:40,459 --> 00:13:45,716
+figuring this stuff out. And don't
+think that rednecks aren't on this too,
+
+193
+00:13:45,736 --> 00:13:51,626
+because, I mean, guys I know where I grew
+up in South Georgia are using it in their
+
+194
+00:13:51,646 --> 00:13:55,003
+blue-collar businesses,
+and they're not stupid.
+
+195
+00:13:55,023 --> 00:14:00,863
+They're very smart. And like that plaintiff's
+lawyer I was talking with last week,
+
+196
+00:14:00,883 --> 00:14:06,800
+I mean, he's building agents, he's doing
+all kinds of stuff, and this dude's in his
+
+197
+00:14:06,820 --> 00:14:11,720
+early 60s and he ain't scared.
+I think there's a lot of...
+
+198
+00:14:11,740 --> 00:14:17,640
+it's like Mark Twain said: it ain't
+what you don't know that gets you.
+
+199
+00:14:17,660 --> 00:14:22,060
+It's what you know for
+certain that just ain't true.
+
+200
+00:14:22,080 --> 00:14:26,728
+I think a lot of people have this hubris
+and arrogance, especially of our generation
+
+201
+00:14:26,748 --> 00:14:29,913
+or younger, that we're the
+only ones who understand tech.
+
+202
+00:14:29,933 --> 00:14:34,306
+Well, it was true that you had an arbitrage
+with a graphical user interface and
+
+203
+00:14:34,326 --> 00:14:38,150
+typing, because that was not a skill
+that our parents really learned,
+
+204
+00:14:38,170 --> 00:14:41,438
+but nobody can dictate
+like a boomer lawyer.
+
+205
+00:14:41,458 --> 00:14:44,282
+And now they've got a way to do that.
+
+206
+00:14:44,302 --> 00:14:50,253
+So in some sense, they may be back in
+the game with a lot more efficacy than
+
+207
+00:14:50,273 --> 00:14:51,490
+anyone thinks.
+
+208
+00:14:51,510 --> 00:14:56,185
+[Jordan] Well, right, because now they can
+plug their OG user interface straight into the
+
+209
+00:14:56,205 --> 00:14:57,000
+technology.
+
+210
+00:14:57,020 --> 00:15:01,131
+[George] Exactly, exactly. And there's
+a lot of wisdom there, you know,
+
+211
+00:15:01,151 --> 00:15:05,918
+because, like we always tell our
+younger people when they join the firm,
+
+212
+00:15:05,938 --> 00:15:11,099
+experience is expensive and good
+judgment only comes from bad judgment.
+
+213
+00:15:11,119 --> 00:15:15,717
+And you need a lot of years
+to accumulate that wisdom.
+
+214
+00:15:15,737 --> 00:15:21,690
+So if you think that you're going to outrun
+that without a lot of reps and painful
+
+215
+00:15:21,710 --> 00:15:24,080
+bad experiences, then
+you're kidding yourself.
+
+216
+00:15:24,100 --> 00:15:30,058
+[Jordan] Yeah, for sure. And it seems like,
+in general, the real edge is going to be with
+
+217
+00:15:30,078 --> 00:15:36,330
+these senior partner lawyers who bother to
+pick up the technology and figure it out,
+
+218
+00:15:36,350 --> 00:15:40,758
+because they're going to be
+able to magnify their judgment.
+
+219
+00:15:40,778 --> 00:15:46,883
+Again, to your point about wisdom and gray
+hair, it just takes experience and reps
+
+220
+00:15:46,903 --> 00:15:53,343
+to really earn judgment. If they can
+figure out how to use this, then the rest
+
+221
+00:15:53,363 --> 00:15:55,480
+of us are cooked.
+
+222
+00:15:55,500 --> 00:15:59,583
+[George] Yeah, exactly. You know, it's interesting
+you say that, because I read this a while
+
+223
+00:15:59,603 --> 00:16:05,205
+ago, but it was talking about a
+lot of the Silicon Valley startups,
+
+224
+00:16:05,225 --> 00:16:10,330
+modern tech companies with Gen
+X and now millennial managers.
+
+225
+00:16:10,350 --> 00:16:14,876
+There's a lot of age
+discrimination in those cultures.
+
+226
+00:16:14,896 --> 00:16:21,241
+And a lot of boomers got wiped out of
+the workforce in the financial crisis,
+
+227
+00:16:21,261 --> 00:16:26,863
+and they couldn't come back in.
+One thing I'm looking to do for us,
+
+228
+00:16:26,883 --> 00:16:31,366
+and I'll just say the quiet part out loud,
+is figure out ways that we can use this
+
+229
+00:16:31,386 --> 00:16:36,412
+technology to work with those boomers
+and give them another 10 years of life.
+
+230
+00:16:36,432 --> 00:16:42,002
+Because if you can hitch your wagon to
+somebody with that much experience and give
+
+231
+00:16:42,022 --> 00:16:46,783
+them a way to help you in your
+business, that's an enormous advantage.
+
+232
+00:16:46,803 --> 00:16:52,171
+But just YOLOing off thinking that at 44
+I know everything on God's green earth
+
+233
+00:16:52,191 --> 00:16:56,340
+about how to run a law firm and
+help a client and navigate things?
+
+234
+00:16:56,360 --> 00:17:01,822
+That's a fairy tale. It's not even a
+fairy tale, it's just a pipe dream.
+
+235
+00:17:01,842 --> 00:17:08,130
+So I think the people who are smart are
+going to use this technology to gain access
+
+236
+00:17:08,150 --> 00:17:14,063
+to experienced senior lawyers, bring them
+into what they're working on and get
+
+237
+00:17:14,083 --> 00:17:18,493
+really good advice, because
+that's where the arbitrage is.
+
+238
+00:17:18,513 --> 00:17:22,323
+It's not in analysis.
+Analysis is a commodity now.
+
+239
+00:17:22,343 --> 00:17:27,046
+Anybody can do that. Do you have the
+experience and the judgment on your team?
+
+240
+00:17:27,066 --> 00:17:32,242
+If you can be judgment maxing instead of
+prestige maxing or credential maxing,
+
+241
+00:17:32,262 --> 00:17:37,060
+then that, I think, is where you'll find
+the people who'll be most successful.
+
+242
+00:17:37,080 --> 00:17:43,229
+[Jordan] So I feel like another hot debate
+right now, when it comes to judgment in the
+
+243
+00:17:43,249 --> 00:17:47,105
+legal profession, is the
+fate of junior lawyers.
+
+244
+00:17:47,125 --> 00:17:53,511
+And what I perceive is a little bit of an
+assumption that the role of the junior
+
+245
+00:17:53,531 --> 00:17:59,826
+is going to greatly diminish,
+because it's just faster for a senior
+
+246
+00:17:59,846 --> 00:18:03,276
+lawyer to do it themselves with AI.
+
+247
+00:18:03,296 --> 00:18:05,500
+What say thee of that?
+
+248
+00:18:05,520 --> 00:18:11,953
+[George] I think that's making
+a future prediction using
+
+249
+00:18:11,973 --> 00:18:16,680
+present assumptions. And you either have
+to make a future prediction using future
+
+250
+00:18:16,700 --> 00:18:20,554
+assumptions, or a present prediction
+using present assumptions.
+
+251
+00:18:20,574 --> 00:18:22,430
+But it's the wrong mental map.
+
+252
+00:18:22,450 --> 00:18:28,911
+Depending on who you read or who you
+believe, lawyers right now, or access to
+
+253
+00:18:28,931 --> 00:18:34,383
+legal services, is limited to only
+about maybe 20%, in some cases 30,
+
+254
+00:18:34,403 --> 00:18:40,631
+at most 40% of the population. I don't
+know any other market where, by the use of
+
+255
+00:18:40,651 --> 00:18:44,757
+technology, your total
+addressable market could double.
+
+256
+00:18:44,777 --> 00:18:50,651
+And so with those junior lawyers, right
+now it's not cost-effective for them to
+
+257
+00:18:50,671 --> 00:18:55,101
+handle a $5,000 fender bender
+or a small contract dispute.
+
+258
+00:18:55,121 --> 00:18:58,523
+You just settle it, walk
+away, write it off.
+
+259
+00:18:58,543 --> 00:19:04,684
+Well, now those types of disputes are very
+cost-effective for a junior lawyer to
+
+260
+00:19:04,704 --> 00:19:10,031
+handle. So I think you will still
+see a lot of junior lawyers working,
+
+261
+00:19:10,051 --> 00:19:15,986
+perhaps on smaller-stakes matters, because
+they can do it cheaper and the stakes are
+
+262
+00:19:16,006 --> 00:19:19,970
+lower, so the client is not
+as upset if you screw it up.
+
+263
+00:19:19,990 --> 00:19:24,710
+[George] And at the end of the day, it's kind
+of like the problem we had in crypto with
+
+264
+00:19:24,730 --> 00:19:29,659
+on-ramp and off-ramp. There's got to be
+a human review off-ramp for this stuff.
+
+265
+00:19:29,679 --> 00:19:34,873
+You can't just plug it into the machine
+and go full send and let the automation go.
+
+266
+00:19:34,893 --> 00:19:38,581
+At least until we replace the
+court system and human nature.
+
+267
+00:19:38,601 --> 00:19:43,273
+But there's got to be human review, and I
+think you're just going to see more work
+
+268
+00:19:43,293 --> 00:19:46,212
+that more juniors have got
+to spend time reviewing.
+
+269
+00:19:46,232 --> 00:19:50,960
+And if it's lower-stakes stuff, well, then
+they'll be content with a junior review,
+
+270
+00:19:50,980 --> 00:19:54,424
+and only the higher-stakes things
+should go to the senior review.
+
+271
+00:19:54,444 --> 00:19:58,676
+But the dirty little secret is every other
+business in the world runs like that.
+
+272
+00:19:58,696 --> 00:20:01,143
+There's no reason law
+firms shouldn't as well.
+
+273
+00:20:01,163 --> 00:20:05,448
+And if they are, the only reason they're
+doing that is to run up the bill so they
+
+274
+00:20:05,468 --> 00:20:07,310
+can get their billable hours in.
+
+275
+00:20:07,330 --> 00:20:13,565
+[Jordan] Right. Yeah, I think you make a really
+good point that making future predictions
+
+276
+00:20:13,585 --> 00:20:17,040
+with present facts is
+typically ill-advised.
+
+277
+00:20:17,060 --> 00:20:21,958
+I think also the loudest people in the room
+right now about AI are probably the ones
+
+278
+00:20:21,978 --> 00:20:26,413
+who tend to have a hard time finding
+ROI with delegation in the first place.
+
+279
+00:20:26,433 --> 00:20:30,290
+And, you know, I'll even throw
+myself under the bus with that too.
+
+280
+00:20:30,310 --> 00:20:35,150
+We all know that my favorite thing to do
+is just lock myself in a room for 12 hours
+
+281
+00:20:35,170 --> 00:20:38,680
+with a laptop and see what kind
+of magic comes out of there.
+
+282
+00:20:38,700 --> 00:20:44,181
+So I get it. I really do. But it's me
+and everyone like me who's screaming on
+
+283
+00:20:44,201 --> 00:20:49,877
+Twitter and on LinkedIn about this. It
+has never been faster in the short term to
+
+284
+00:20:49,897 --> 00:20:52,553
+delegate and train, for anyone. Never.
+
+285
+00:20:52,573 --> 00:20:58,180
+The ROI on delegation requires an investment,
+and that investment has always been
+
+286
+00:20:58,200 --> 00:21:03,807
+time. And so the question is not, "Is it
+faster in the short term for me to do it
+
+287
+00:21:03,827 --> 00:21:07,625
+myself with AI?" Because
+obviously the answer is yes.
+
+288
+00:21:07,645 --> 00:21:12,178
+The question is: does AI
+change the ROI equation?
+
+289
+00:21:12,198 --> 00:21:16,400
+Does it make the ROI greater?
+Does it keep it the same?
+
+290
+00:21:16,420 --> 00:21:18,864
+Does it diminish it? Does it eliminate it?
+
+291
+00:21:18,884 --> 00:21:22,933
+A lot of people think it's going to
+eliminate it, but let's be honest,
+
+292
+00:21:22,953 --> 00:21:25,569
+you're making that
+prediction based on vibes.
+
+293
+00:21:25,589 --> 00:21:28,148
+And that's fine. You're
+entitled to do that.
+
+294
+00:21:28,168 --> 00:21:32,733
+But I don't think that we should throw
+decades of wisdom on the management of a
+
+295
+00:21:32,753 --> 00:21:38,710
+professional services firm out the window
+just because we have this new technology.
+
+296
+00:21:38,730 --> 00:21:42,405
+[George] Yeah. I mean, a good
+previous example would be runners.
+
+297
+00:21:42,425 --> 00:21:47,329
+Back in the day, which I caught the
+tail end of when I started my career,
+
+298
+00:21:47,349 --> 00:21:52,186
+before electronic filing... and luckily
+my office was in the courthouse,
+
+299
+00:21:52,206 --> 00:21:55,650
+so I didn't have to go that
+far to file something.
+
+300
+00:21:55,670 --> 00:21:57,080
+[Jordan] What's a runner,
+for people who don't know?
+
+301
+00:21:57,100 --> 00:22:02,851
+[George] So you had to go physically to the
+courthouse to file something, or send it by
+
+302
+00:22:02,871 --> 00:22:08,330
+registered mail with multiple copies
+for the clerk to stamp: one for them,
+
+303
+00:22:08,350 --> 00:22:10,629
+one for the opposing
+party and one for you.
+
+304
+00:22:10,649 --> 00:22:14,024
+Wait for that to come back, and
+then serve it on the other side.
+
+305
+00:22:14,044 --> 00:22:17,785
+And then once you've got proof of
+service, mail that back to the clerk.
+
+306
+00:22:17,805 --> 00:22:22,121
+Well, if you wanted to do anything without
+waiting two or three weeks for all that
+
+307
+00:22:22,141 --> 00:22:26,830
+mail to go back and forth, you had runners,
+and they were just couriers for law
+
+308
+00:22:26,850 --> 00:22:32,321
+firms who would run down to the clerk,
+run it back to your office, run it over to
+
+309
+00:22:32,341 --> 00:22:37,343
+opposing counsel, give it to the process
+server to take and go serve it on
+
+310
+00:22:37,363 --> 00:22:40,673
+everybody. So you had a
+courier who could do that.
+
+311
+00:22:40,693 --> 00:22:44,425
+And then this magical technology
+called email came along.
+
+312
+00:22:44,445 --> 00:22:49,729
+And that did eliminate the runner as a
+job description, and it was an entry-level
+
+313
+00:22:49,749 --> 00:22:54,827
+point for a law firm. But lawyers have
+not stopped hiring entry-level people.
+
+314
+00:22:54,847 --> 00:22:59,676
+They're now doing different things
+like intake, or managing the docket,
+
+315
+00:22:59,696 --> 00:23:04,122
+or calendaring, or secretary work,
+whatever, reviewing discovery.
+
+316
+00:23:04,142 --> 00:23:07,220
+So that didn't go away.
+The job just shifted.
+
+317
+00:23:07,240 --> 00:23:11,277
+There's still just as many people working
+in law firms as there were 30 years ago
+
+318
+00:23:11,297 --> 00:23:15,689
+when runners were a profession. It's
+just humans are doing a different task,
+
+319
+00:23:15,709 --> 00:23:18,070
+because the computer handles the filing.
+
+320
+00:23:18,090 --> 00:23:23,447
+[Jordan] Okay. Well, I'm running tight on time,
+because I need to go argue with Claude about
+
+321
+00:23:23,467 --> 00:23:27,929
+something that it's doing wrong that
+I could have done faster myself.
+
+322
+00:23:27,949 --> 00:23:33,370
+But before we close, what is one spicy
+prediction that you have on where this is all
+
+323
+00:23:33,390 --> 00:23:37,990
+headed in our profession?
+
+324
+00:23:38,010 --> 00:23:41,241
+[George] That's a great question. And I hate
+it when people say "that's a great question,"
+
+325
+00:23:41,261 --> 00:23:44,493
+because it's just a filler to say, "I
+don't know the answer and I'm trying to buy
+
+326
+00:23:44,513 --> 00:23:48,366
+time to think about it." So
+I'm working on not saying that.
+
+327
+00:23:48,386 --> 00:23:54,342
+One spicy prediction I
+have is that in the short
+
+328
+00:23:54,362 --> 00:24:00,040
+term, we are going to see an explosion in
+
+329
+00:24:00,060 --> 00:24:05,806
+legal demand, particularly as
+a byproduct of what we call the
+
+330
+00:24:05,826 --> 00:24:12,242
+slopocalypse, because lawyers,
+especially unscrupulous lawyers,
+
+331
+00:24:12,262 --> 00:24:18,649
+no matter what the consequences have
+always been, they're going to keep sending
+
+332
+00:24:18,669 --> 00:24:21,370
+in slop and trying not to get caught.
+
+333
+00:24:21,390 --> 00:24:27,323
+But even worse, pro se litigants
+are going to mob the court system,
+
+334
+00:24:27,343 --> 00:24:30,923
+because now there's this
+power-to-the-people element.
+
+335
+00:24:30,943 --> 00:24:35,923
+And a good example of what was the very
+frontier of this was DoNotPay.com.
+
+336
+00:24:35,943 --> 00:24:41,123
+But now you can have your Claude bot go
+track down the spam caller who's been
+
+337
+00:24:41,143 --> 00:24:46,323
+wearing you out, get all their information,
+and then launch a TCPA complaint.
+
+338
+00:24:46,343 --> 00:24:50,723
+So I think the court systems are
+not ready for this slopocalypse.
+
+339
+00:24:50,743 --> 00:24:55,599
+They have their head in the sand, and the
+judges need to take note and get ahead of
+
+340
+00:24:55,619 --> 00:25:00,952
+this problem. Simple fixes could be page
+limits on briefs, or asking for leave of
+
+341
+00:25:00,972 --> 00:25:06,730
+the court to do more filing, raising the
+cost of filing fees, which absolutely needs
+
+342
+00:25:06,750 --> 00:25:12,440
+to happen. It makes no sense that a $20
+million lawsuit and a $500 lawsuit have the
+
+343
+00:25:12,460 --> 00:25:17,280
+same filing fee. That doesn't mean
+you should go crazy and be punitive,
+
+344
+00:25:17,300 --> 00:25:22,834
+but they are not equipped. They do not have
+the staff or the resources to handle a
+
+345
+00:25:22,854 --> 00:25:27,409
+flood of pro se litigation, which I think
+in the short term is going to happen,
+
+346
+00:25:27,429 --> 00:25:29,700
+and they need to get out ahead of it.
+
+347
+00:25:29,720 --> 00:25:33,691
+[Jordan] So I'm going to give you a spicy
+take that kind of dovetails on that,
+
+348
+00:25:33,711 --> 00:25:38,580
+which is: people are going to stop putting
+class action waivers in their contracts.
+
+349
+00:25:38,600 --> 00:25:40,580
+[George] Absolutely.
+
+350
+00:25:40,600 --> 00:25:45,463
+[Jordan] And I have been on the
+
+351
+00:25:45,483 --> 00:25:48,180
+defense side of mass arbitrations before.
+
+352
+00:25:48,200 --> 00:25:52,267
+And if a plaintiff's lawyer figures out
+how to do a mass action really well,
+
+353
+00:25:52,287 --> 00:25:56,565
+or I guess mass individual actions is what
+I mean, that's a much bigger headache
+
+354
+00:25:56,585 --> 00:25:57,840
+than a class action.
+
+355
+00:25:57,860 --> 00:26:03,856
+[George] Well, now you can have an army of
+bots, and one plaintiff's lawyer can manage 500
+
+356
+00:26:03,876 --> 00:26:09,512
+lawsuits pretty easily. So the whole world
+of class actions may be turning upside
+
+357
+00:26:09,532 --> 00:26:11,400
+down before this is over.
+
+358
+00:26:13,310 --> 00:26:16,320
+[Jordan] Cool. Well, I'm going
+to go argue with Claude now.
+
+359
+00:26:16,340 --> 00:26:17,600
+[George] All right. Good take.
+
+360
+00:26:17,700 --> 00:26:28,780
+♪ Outro music ♪
