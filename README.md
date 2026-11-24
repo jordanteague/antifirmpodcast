@@ -11,7 +11,7 @@ Landing page built with Next.js (App Router), TypeScript and Tailwind CSS, expor
 
 ## Where things live
 
-- Episodes come from the Spotify for Creators RSS feed (`feedUrl` in `data/site.ts`) at build time. The newest full episode is featured; until one exists, the trailer is.
+- Episodes come from the Riverside RSS feed (`feedUrl` in `data/site.ts`) at build time. The newest full episode is featured; until one exists, the trailer is.
 - `data/episode-meta.json` – per-episode extras the feed lacks, keyed by guid: `category` and `youtubeId`
 - Episode pages: `/episodes/<slug>/`, one per feed episode (`app/episodes/[slug]/page.tsx`), with a player,
   show notes, a transcript tab and clickable chapters. Extras come from `data/episode-meta.json`, keyed by guid,

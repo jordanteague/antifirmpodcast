@@ -14,8 +14,8 @@ export const site = {
   tagline: "Business. Law. Other things.",
   description:
     "A podcast about the things that sound boring—until they’re your problem.",
-  /** Episodes come from this feed at build time: the Spotify for Creators feed, which is the show's canonical feed (Apple subscribes to it too). */
-  feedUrl: "https://anchor.fm/s/119848a18/podcast/rss",
+  /** Episodes come from this feed at build time. */
+  feedUrl: "https://api.riverside.com/hosting/EhWysD90.rss",
   /** Set to the trailer's YouTube link once known; until then the button falls back to the YouTube channel. */
   trailerUrl: "",
   links,
