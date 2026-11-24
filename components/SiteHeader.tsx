@@ -12,6 +12,7 @@ const nav = [
   { href: asset("/#episodes"), label: "Episodes" },
   { href: asset("/#about"), label: "About" },
   { href: asset("/#hosts"), label: "Hosts" },
+  { href: asset("/newsletter/"), label: "Newsletter" },
   { href: asset("/#subscribe"), label: "Subscribe" },
 ];
 

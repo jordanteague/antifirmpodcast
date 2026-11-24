@@ -4,6 +4,8 @@ import { FeaturedEpisode } from "@/components/FeaturedEpisode";
 import { EpisodeList } from "@/components/EpisodeList";
 import { About } from "@/components/About";
 import { Subscribe } from "@/components/Subscribe";
+import { Newsletter } from "@/components/Newsletter";
+import { liveIssues } from "@/data/newsletter";
 import { SiteFooter } from "@/components/SiteFooter";
 import { site } from "@/data/site";
 import { getEpisodes, watchHref } from "@/lib/episodes";
@@ -24,6 +26,7 @@ export default async function HomePage() {
           </div>
         </section>
         <About />
+        <Newsletter archiveLink={liveIssues().length > 0} />
         <Subscribe />
       </main>
       <SiteFooter />
