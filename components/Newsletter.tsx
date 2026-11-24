@@ -36,8 +36,7 @@ export function Newsletter({ archiveLink = false }: { archiveLink?: boolean }) {
             <SignupForm />
           </div>
           <p className="mt-4 max-w-[60ch] text-sm text-text-secondary">
-            We&rsquo;ll only use your email to send the newsletter. Unsubscribe any time with one click. Nothing
-            here is legal advice for your situation.
+            We&rsquo;ll only use your email to send the newsletter. Unsubscribe any time with one click.
           </p>
           {archiveLink && (
             <a href={asset("/newsletter/")} className="label mt-8 inline-flex items-center gap-2.5 text-brand-lime hover:underline">
