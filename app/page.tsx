@@ -3,6 +3,7 @@ import { Hero } from "@/components/Hero";
 import { FeaturedEpisode } from "@/components/FeaturedEpisode";
 import { EpisodeList } from "@/components/EpisodeList";
 import { About } from "@/components/About";
+import { WatchSection } from "@/components/WatchSection";
 import { Subscribe } from "@/components/Subscribe";
 import { SiteFooter } from "@/components/SiteFooter";
 import { site } from "@/data/site";
@@ -23,6 +24,7 @@ export default async function HomePage() {
             <EpisodeList episodes={all} />
           </div>
         </section>
+        <WatchSection />
         <About />
         <Subscribe />
       </main>

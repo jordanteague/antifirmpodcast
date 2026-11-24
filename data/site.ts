@@ -19,6 +19,12 @@ export const site = {
   /** Set to the trailer's YouTube link once known; until then the button falls back to the YouTube channel. */
   trailerUrl: "",
   links,
+  /** Video featured in the "Watch" section below the episodes. Leave youtubeId empty to hide the section. */
+  featuredVideo: {
+    youtubeId: "",
+    title: "Billed for the Meeting",
+    description: "An 8-bit music video about the billable hour. LEVEL 1. TARGET: 2,400 HRS. Press start.",
+  },
   /**
    * Cloudflare Web Analytics site token (cookie-free, no consent banner needed).
    * Leave empty to turn analytics off. Find it in Cloudflare → Analytics & Logs → Web Analytics → antifirm.com → Manage site.
