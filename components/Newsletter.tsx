@@ -16,7 +16,8 @@ function SignupForm() {
     s.dataset.beehiivForm = site.newsletter.beehiivFormId;
     host.appendChild(s);
   }, []);
-  return <div ref={ref} className="min-h-[3.5rem] max-w-xl" />;
+  // Matches the 408px form width set in beehiiv, so the iframe has no empty white area beside it.
+  return <div ref={ref} className="min-h-[3.5rem] w-full max-w-[408px]" />;
 }
 
 export function Newsletter({ archiveLink = false }: { archiveLink?: boolean }) {
