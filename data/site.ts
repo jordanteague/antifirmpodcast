@@ -19,6 +19,11 @@ export const site = {
   /** Set to the trailer's YouTube link once known; until then the button falls back to the YouTube channel. */
   trailerUrl: "",
   links,
+  /** Builders, Not Billers email newsletter (beehiiv). */
+  newsletter: {
+    beehiivFormId: "540f851d-0b76-4be9-9e48-635ec69ba875",
+    archiveUrl: "https://buildersnotbillers.beehiiv.com",
+  },
   /**
    * Cloudflare Web Analytics site token (cookie-free, no consent banner needed).
    * Leave empty to turn analytics off. Find it in Cloudflare → Analytics & Logs → Web Analytics → antifirm.com → Manage site.
