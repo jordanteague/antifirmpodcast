@@ -17,7 +17,16 @@ export function About() {
         <div className="grid gap-12">
           <p className="max-w-[60ch] text-[1.3rem] leading-normal">
             ANTIFIRM is a podcast about business, law, and other things that sound boring—until they’re your
-            problem.
+            problem. Brought to you by{" "}
+            <a
+              href="https://campbellteague.com"
+              target="_blank"
+              rel="noopener"
+              className="underline decoration-1 underline-offset-4 transition-colors hover:text-brand-lime"
+            >
+              Campbell Teague
+            </a>
+            .
           </p>
           <div id="hosts" className="grid gap-8 sm:grid-cols-2">
             {hosts.map(({ name, bio }) => (
